@@ -209,45 +209,8 @@
             name="A User" abstractType="#76b7ba68-388d-4123-ad05-dcf21a9ae5ab"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="6c02053f-7f9a-4525-9a2f-457ac4d91c63"
             name="Application Support Team" abstractType="#fce14763-d7f8-4680-9896-233df0f70e2a"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="25050d5c-a356-48ff-b7a0-a226f3516253"
-            name="Capella web app" abstractType="#ab7fd3ca-db37-4feb-8818-9d75bd723f60"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="7ba2ca97-09ba-4929-bba8-ddcadbde1038"
-            name="Repository MAnagement System" abstractType="#e67d5aab-62f9-4829-9402-8800e7d3389c"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="313436ff-39d0-41db-b4f4-7d85f057a9bc"
-            name="Polarion web app" abstractType="#98b724fd-ec11-434a-a6b9-91d552518f75"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c"
-            name="Knowledge Management" abstractType="#38f27933-58dd-4b52-8fc9-117a87142edb"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="e5bbdc78-6e0b-48e7-aae7-399a39f38436"
-            name="Simulink" abstractType="#587856f6-036e-418f-b6b1-19892e84848e"/>
-        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="9167a05b-07d1-4f9c-b430-bb41e145ef91"
-            name="Event Triggered Services" abstractType="#56f619b0-0858-4a39-b3f2-c71946287c44"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="40a2751e-b300-47f8-a50d-a25ee8d908c1" name="CommunicationMean 1" source="#98b724fd-ec11-434a-a6b9-91d552518f75"
-            target="#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="63792d9d-b502-42d7-8110-c3e7d8e6216e" name="CommunicationMean 2" source="#ab7fd3ca-db37-4feb-8818-9d75bd723f60"
-            target="#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="b5df8e45-8aaf-4c42-953d-edc70a2480cd" name="CommunicationMean 3" source="#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"
-            target="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="e7279b1f-1822-4221-8fb0-c30f1e8ea7e4" name="CommunicationMean 4" source="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"
-            target="#98b724fd-ec11-434a-a6b9-91d552518f75"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="069ff1d7-b396-485c-99bf-817597fde8a4" name="CommunicationMean 5" source="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"
-            target="#38f27933-58dd-4b52-8fc9-117a87142edb"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="71a35f09-3239-43ba-ba99-458cf005b175" name="CommunicationMean 6" source="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"
-            target="#bb099695-bddb-4684-a08b-a95221d2c3cc"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="3c93ec79-db23-4d3f-a30b-e7e3c1f64244" name="CommunicationMean 7" source="#bb099695-bddb-4684-a08b-a95221d2c3cc"
-            target="#587856f6-036e-418f-b6b1-19892e84848e"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="aec63c88-2d96-4113-a4d1-9b9532ee762c" name="CommunicationMean 8" source="#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"
-            target="#663f4807-2fa5-44e5-ac65-6a13a934f415"/>
-        <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.oa:CommunicationMean"
-            id="96e0917c-ff50-435f-bf6e-baea3f0adbc3" name="CommunicationMean 9" source="#663f4807-2fa5-44e5-ac65-6a13a934f415"
-            target="#9972dcc4-7d4b-46b8-8c70-2f49afe86996"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="a0f01d3d-b39a-450d-8bf6-0bfa6e0d2be8"
+            name="Collaboration Platform" abstractType="#a992e9f8-a37c-4697-87d6-5fdef1ad1996"/>
         <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="fd019fba-2636-4d7f-9a00-0ea76cb2b52a"
             name="Content Author" actor="true" human="true"/>
         <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ee350a55-b316-40c0-9b33-988006a60a9b"
@@ -278,43 +241,137 @@
             name="A User" actor="true" human="true"/>
         <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="fce14763-d7f8-4680-9896-233df0f70e2a"
             name="Application Support Team" actor="true" human="true"/>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ab7fd3ca-db37-4feb-8818-9d75bd723f60"
-            name="Capella web app"/>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="e67d5aab-62f9-4829-9402-8800e7d3389c"
-            name="Repository MAnagement System">
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="09112535-658b-4b6f-91f3-46d2858fb5cb"
-              name="Capella Model Repository" abstractType="#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"/>
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="33e6ee31-f1b6-467f-8c23-f93fae696d90"
-              name="Simulink Model Repository" abstractType="#bb099695-bddb-4684-a08b-a95221d2c3cc"/>
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="761b7b71-cb32-4542-ab6a-e126e934d53a"
-              name="SysML Repository" abstractType="#9972dcc4-7d4b-46b8-8c70-2f49afe86996"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="242bc3ae-415e-4afa-8ce6-33b7f73cc3ad"
-              name="Capella Model Repository"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="bb099695-bddb-4684-a08b-a95221d2c3cc"
-              name="Simulink Model Repository"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="9972dcc4-7d4b-46b8-8c70-2f49afe86996"
-              name="SysML Repository"/>
-        </ownedEntities>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="98b724fd-ec11-434a-a6b9-91d552518f75"
-            name="Polarion web app"/>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="38f27933-58dd-4b52-8fc9-117a87142edb"
-            name="Knowledge Management"/>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="587856f6-036e-418f-b6b1-19892e84848e"
-            name="Simulink"/>
-        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="56f619b0-0858-4a39-b3f2-c71946287c44"
-            name="Event Triggered Services">
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="1d989cd3-4493-459d-833d-cbdc9a421917"
-              name="Model Derived Artifact Generation" abstractType="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"/>
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="eed80bf1-5e6a-41f4-b311-fbbf05b9cd3d"
-              name="ARCADIA 2 SysML transformation" abstractType="#663f4807-2fa5-44e5-ac65-6a13a934f415"/>
-          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="046a80aa-a3be-469d-b8f5-867b5df0ad8a"
-              name="Model Validation Service" abstractType="#63cdfdea-eb44-492d-8760-5f071430b298"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"
-              name="Model Derived Artifact Generation"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="663f4807-2fa5-44e5-ac65-6a13a934f415"
-              name="ARCADIA 2 SysML transformation"/>
-          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="63cdfdea-eb44-492d-8760-5f071430b298"
-              name="Model Validation Service"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="a992e9f8-a37c-4697-87d6-5fdef1ad1996"
+            name="Collaboration Platform">
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="0fd19fe7-3b94-462b-975c-e14f930a352d"
+              name="Applications" abstractType="#1e511bdf-e56d-42bc-b643-a3dfc5c81924"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="34e6357d-b1d4-466a-a3f4-9b07f1a0ca7b"
+              name="Common Services" abstractType="#7ccafc99-7fee-456d-9270-c16debfd411a"/>
+          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="1e511bdf-e56d-42bc-b643-a3dfc5c81924"
+              name="Applications">
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="27a9159b-e457-4ecd-bdb3-7d42f8bc830c"
+                name="Specialist Applications" abstractType="#decf162b-4a50-4d16-9012-dbc51ad6ee47"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="b8706f7a-b03e-4d8b-bd05-b30919b004fb"
+                name="Cross-cutting Applications" abstractType="#75b79254-d476-41ce-b06e-80c4f89c204f"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="da7c480d-46e5-4586-803b-36d93ae10dfc"
+                name="CI/CD Applications" abstractType="#74fce280-a268-4114-854d-de5deab08339"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="decf162b-4a50-4d16-9012-dbc51ad6ee47"
+                name="Specialist Applications">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="25050d5c-a356-48ff-b7a0-a226f3516253"
+                  name="ARCADIA Modeling App" abstractType="#ab7fd3ca-db37-4feb-8818-9d75bd723f60"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="313436ff-39d0-41db-b4f4-7d85f057a9bc"
+                  name="Requirments Management App" abstractType="#98b724fd-ec11-434a-a6b9-91d552518f75"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="c8a0f815-7adf-4e17-8d94-8db1810f6d4c"
+                  name="SysML / UML Modeling App" abstractType="#638c6ea5-77e5-4178-83dc-4a13d279aa55"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="ec568341-14d1-49d0-ab1b-37fb91b2e831"
+                  name="Conceptiual Data Model App" abstractType="#81c065a4-5f55-412c-b2ce-926b855632f2"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="2a27612a-76b1-4e2e-a9ff-6c179485567e"
+                  name="Digital Twin Apps" abstractType="#12c64009-d14d-44f1-a114-29bad0861f51"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ab7fd3ca-db37-4feb-8818-9d75bd723f60"
+                  name="ARCADIA Modeling App"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="98b724fd-ec11-434a-a6b9-91d552518f75"
+                  name="Requirments Management App"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="638c6ea5-77e5-4178-83dc-4a13d279aa55"
+                  name="SysML / UML Modeling App"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="81c065a4-5f55-412c-b2ce-926b855632f2"
+                  name="Conceptiual Data Model App"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="12c64009-d14d-44f1-a114-29bad0861f51"
+                  name="Digital Twin Apps"/>
+            </ownedEntities>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="75b79254-d476-41ce-b06e-80c4f89c204f"
+                name="Cross-cutting Applications">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c"
+                  name="Knowledge Management Service" abstractType="#38f27933-58dd-4b52-8fc9-117a87142edb"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="9ba7fcac-8e87-4f75-aa65-648dba9c5442"
+                  name="Project / Task Management" abstractType="#16cb545b-32dd-4b76-9179-32da6bd0906e"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="0b46a0ff-6554-4839-8644-6587c91eb3bd"
+                  name="Model Repository Management Service" abstractType="#41861774-88c8-4d39-9c3b-0feb9ad23af1"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="4ad790e0-0952-4b8b-bd4c-f566930d465a"
+                  name="Release Management Service" abstractType="#e41d464f-47b1-4e11-ac61-a837bb503a27"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="acca21e8-1332-47b2-bd0c-de63fa1680ff"
+                  name="Project &amp; Applications Register" abstractType="#2018b46a-9547-4962-87b6-36097f09731e"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="38f27933-58dd-4b52-8fc9-117a87142edb"
+                  name="Knowledge Management Service"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="16cb545b-32dd-4b76-9179-32da6bd0906e"
+                  name="Project / Task Management"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="41861774-88c8-4d39-9c3b-0feb9ad23af1"
+                  name="Model Repository Management Service"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="e41d464f-47b1-4e11-ac61-a837bb503a27"
+                  name="Release Management Service"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="2018b46a-9547-4962-87b6-36097f09731e"
+                  name="Project &amp; Applications Register"/>
+            </ownedEntities>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="74fce280-a268-4114-854d-de5deab08339"
+                name="CI/CD Applications">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="046a80aa-a3be-469d-b8f5-867b5df0ad8a"
+                  name="Model Validation" abstractType="#63cdfdea-eb44-492d-8760-5f071430b298"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="eed80bf1-5e6a-41f4-b311-fbbf05b9cd3d"
+                  name="Capella 2 SysML Transformation Service" abstractType="#663f4807-2fa5-44e5-ac65-6a13a934f415"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="1d989cd3-4493-459d-833d-cbdc9a421917"
+                  name="Model-derived Artifact Generation" abstractType="#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="7a289dd9-24ec-4c1c-8ae0-ceb47f81e9ee"
+                  name="Capella Model Publisher" abstractType="#e4d9522b-5033-4975-b63a-8d9c2cb0db31"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="7b78a9b5-ddbe-42f1-b937-8c0a9c89ea01"
+                  name="Model Modifiers (Capella)" abstractType="#6bd6ec30-b11c-4de2-a3e3-0e2e509bc781"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="d9cc2fd7-2999-410f-9d06-b13211608573"
+                  name="Model Metrics" abstractType="#c4666df1-bcdd-48b1-aedf-f325d419f5fa"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="63cdfdea-eb44-492d-8760-5f071430b298"
+                  name="Model Validation"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="663f4807-2fa5-44e5-ac65-6a13a934f415"
+                  name="Capella 2 SysML Transformation Service"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="f21b0150-126e-4d63-82b3-2b3bf7b7ff6c"
+                  name="Model-derived Artifact Generation"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="e4d9522b-5033-4975-b63a-8d9c2cb0db31"
+                  name="Capella Model Publisher"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="6bd6ec30-b11c-4de2-a3e3-0e2e509bc781"
+                  name="Model Modifiers (Capella)"/>
+              <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="c4666df1-bcdd-48b1-aedf-f325d419f5fa"
+                  name="Model Metrics"/>
+            </ownedEntities>
+          </ownedEntities>
+          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="7ccafc99-7fee-456d-9270-c16debfd411a"
+              name="Common Services">
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="5c229a08-1567-489e-9da7-07258451bbae"
+                name="Identitiy and Access Management Service" abstractType="#2069afa2-6f8c-4473-8c50-ad1cbc4d67cf"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="5a47800a-885b-40fd-a509-fae346d16e32"
+                name="On-demand Compute Resources" abstractType="#0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="db57de50-dde4-402a-bd45-8e48e04f000a"
+                name="Persistent Compute resources" abstractType="#2a2a0cbd-480b-4d56-bcf9-00560b01c5b4"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="68c9da36-7f6f-4568-980a-473a5bb36722"
+                name="Data Management Services" abstractType="#87c8c27f-4431-49cd-a9ae-64e2c31f9b88"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="8acc131e-b773-4933-9397-475e7ccf8410"
+                name="Binary Artifact Management Service" abstractType="#074ef86f-fc3c-4037-b987-4d22e74b2626"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="fdc2c9c8-8218-48a5-8b65-da11a684031d"
+                name="Resource Monitoring Services" abstractType="#ceb10afc-007b-4174-b740-b751df36d463"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="e692f4cf-d541-43ca-884d-3346eafa0af3"
+                name="License Usage Monitoring" abstractType="#d0578851-6c31-4c1a-85a3-52675be35a1d"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="17cc5297-9e44-472c-99de-25475d661d40"
+                name="Security Monitoring and Auditing Services" abstractType="#a1307224-e34e-4b69-bacd-18addfb7b093"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="9200d481-1e40-4c5f-995c-328f8ebbb775"
+                name="Application Management Services" abstractType="#7acda9af-68e4-49b9-a178-bb86d13b074a"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="f4ea882c-5fe4-4625-925c-05b6491e0b3a"
+                name="Cost Management Service" abstractType="#ff0dbadb-c69c-4b6d-95ef-5974129924b8"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="2069afa2-6f8c-4473-8c50-ad1cbc4d67cf"
+                name="Identitiy and Access Management Service"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8"
+                name="On-demand Compute Resources"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="2a2a0cbd-480b-4d56-bcf9-00560b01c5b4"
+                name="Persistent Compute resources"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="87c8c27f-4431-49cd-a9ae-64e2c31f9b88"
+                name="Data Management Services"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="074ef86f-fc3c-4037-b987-4d22e74b2626"
+                name="Binary Artifact Management Service"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ceb10afc-007b-4174-b740-b751df36d463"
+                name="Resource Monitoring Services"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="d0578851-6c31-4c1a-85a3-52675be35a1d"
+                name="License Usage Monitoring"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="a1307224-e34e-4b69-bacd-18addfb7b093"
+                name="Security Monitoring and Auditing Services"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="7acda9af-68e4-49b9-a178-bb86d13b074a"
+                name="Application Management Services"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ff0dbadb-c69c-4b6d-95ef-5974129924b8"
+                name="Cost Management Service"/>
+          </ownedEntities>
         </ownedEntities>
       </ownedEntityPkg>
     </ownedArchitectures>
