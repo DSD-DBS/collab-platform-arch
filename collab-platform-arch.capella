@@ -470,9 +470,274 @@
             name="Logical System" abstractType="#edebc8b8-fa2d-493e-892b-a3a8b315c92e"/>
         <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
             id="edebc8b8-fa2d-493e-892b-a3a8b315c92e" name="Logical System">
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="42cd71e9-a915-4ace-9f19-9831be76f5fd" name="C 5" source="#6b97ccde-06d5-426d-bd23-e586b14403d2"
+              target="#974899da-99b3-405c-a805-d2a1e1d60a79" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="6b99692c-3aef-4245-aa4d-233a811afc00" name="C 7" source="#a0749fb1-bb3f-4f82-b2fc-74b8d5b4d6ee"
+              target="#b6a371e0-0341-4462-85a7-f8b3787f6a00" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="d63ae38d-950e-425d-8010-af23339e46be" name="C 3" source="#0b9880ad-23d0-4d3f-abb2-2a43e1e22d61"
+              target="#6a48691c-cf47-4bc0-ad1c-f7c3e7cdc0c3" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="915bea0f-f368-4203-9f17-9d971408422b" name="C 4" source="#a81efb63-8d8f-419c-8d3a-03a35eecae0b"
+              target="#b81c1c44-e29d-4476-ae27-dff90620dc51" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="805509c3-4024-4072-9175-b65cf13a9f60" name="C 6" source="#b3457675-4d79-4795-96ad-2ce09475bffc"
+              target="#382c29ce-62df-4dff-8a3f-ce6b90223180" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="5894e353-b75a-44ef-bf06-d13d275ea347" name="C 8" source="#a81efb63-8d8f-419c-8d3a-03a35eecae0b"
+              target="#07799539-3c4b-490e-9f50-9a6b5ea7c647" kind="FLOW"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="a8b90e12-da4b-4f05-87b1-d34506b707ca"
+              name="EUG Platform Scope" abstractType="#a2d3b9a5-6e49-4f88-b750-ca36a431c11c"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="a0327fa5-9c78-40ac-9548-09d13fbcd2b0"
+              name="Confluence (SaaS)" abstractType="#bdc9145c-ee1b-4e6c-bf30-44b101f513a6"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="8b99e7c6-1c76-43f8-9d62-c1ce56d14aea"
+              name="Jira (SaaS)" abstractType="#4dfa4d59-8a9e-4c79-bc43-e57b5889e578"/>
           <ownedComponentRealizations xsi:type="org.polarsys.capella.core.data.cs:ComponentRealization"
               id="a9241802-46de-49fb-8976-cf783cb9f31e" targetElement="#b41f11a0-af3e-4803-808a-15a0fa48f6fb"
               sourceElement="#edebc8b8-fa2d-493e-892b-a3a8b315c92e"/>
+          <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+              id="a2d3b9a5-6e49-4f88-b750-ca36a431c11c" name="EUG Platform Scope">
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="8ddcc52e-7653-4c00-a962-16ed077f2740" name="C 1" source="#08e04992-09e1-49b9-abac-c8d5d4cb2467"
+                target="#38b174e5-72b4-455c-89ff-572bc4c88622" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="4c01d9ac-2167-4331-8fc7-c66163339075" name="C 12" source="#22ad0d36-ddc9-4c3c-84ea-7eb6ab617d35"
+                target="#18c3328d-c332-4530-8e85-64f5ddf71c5c" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="e1f728b6-db41-4ba9-a256-62296d74b68f" name="C 3" source="#50744ba6-bbb7-4c03-af1b-4017a194b48a"
+                target="#b4270ee1-ee4f-4205-bd35-d22f5d7e86d0" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="47d033b0-8b71-459f-a48c-d947738162c6" name="C 4" source="#f48b1987-d641-4262-b8ea-7f3091ccf87e"
+                target="#6466dd66-1e08-47c2-b061-347edbedd919" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="fcf700ea-eeb6-4190-9dd2-3a2a4fcd2324" name="C 6" source="#50744ba6-bbb7-4c03-af1b-4017a194b48a"
+                target="#c6e9fbf5-9dca-4eac-8a81-225683815660" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="0f62c107-557b-404f-994c-6cae0614f3a5" name="C 10" source="#50744ba6-bbb7-4c03-af1b-4017a194b48a"
+                target="#8a7dbac0-4d76-4c88-a820-a7b14fe75996" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="7f1cbbf7-edd3-4902-9f10-fc559c0e8270" name="C 11" source="#70e3f89f-b7bf-4bb5-99ed-4e2b84f0f11f"
+                target="#537901c0-ef19-4ecd-a796-a596c90debca" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="9d053e23-be2f-4f8a-9d95-078558695267" name="C 8" source="#50744ba6-bbb7-4c03-af1b-4017a194b48a"
+                target="#2418bb39-edb0-4c5e-be6b-57c5d2652b33" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="69daed59-a053-4d80-889f-fa6415d04acf" name="C 9" source="#1a44c894-b982-4444-869f-e1320c3ef6e8"
+                target="#222a50cf-62a0-42a2-8bd1-0c2eb5e65898" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="f67f5afa-e952-4c60-8afb-dab25089f5de" name="C 13" source="#50744ba6-bbb7-4c03-af1b-4017a194b48a"
+                target="#b2285c09-bdde-4b4d-8307-03d237233215" kind="FLOW"/>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="50cb44f0-951d-4a2d-87eb-6f25daf0ded3" name="C 14" source="#c96a697e-0845-4e39-adcc-66b205dc6843"
+                target="#f7e1d275-a20e-4372-9d11-05a65958e09f" kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="b6968b0d-377c-4cd0-85d9-8f00603ffeed"
+                name="Persistent Applications" abstractType="#bce414e0-9a50-41ca-b653-9d04bb720e27"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="bc86ee1d-8fcd-4183-8266-d2757fcdbe49"
+                name="Event Triggered Applications" abstractType="#5a9beb79-e687-4da9-8052-a3b10c418ebc"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="ec6a7551-0851-4a41-979c-1ca385fab585"
+                name="Common Services" abstractType="#0c258280-86dd-4eed-8ff9-2ae1592e5fe6"/>
+            <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                id="bce414e0-9a50-41ca-b653-9d04bb720e27" name="Persistent Applications">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="d0ff4d6a-a45e-4c32-a6f6-3e4c1ade1b18"
+                  name="capella-collab-manager (app)" abstractType="#36009701-cecc-4e40-b8d9-fcc21fcc4bc9"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="cb220f07-7449-4267-ad20-7bb03c194692"
+                  name="Polarion (app)" abstractType="#93aa7e69-dd5e-49cc-a7b8-58b8ab09147b"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="82cfeae8-b7e1-4a21-ba18-edaf7c90eafb"
+                  name="Simulink (app)" abstractType="#7597aef5-9ed6-48b0-b102-7814d81a4301"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="36009701-cecc-4e40-b8d9-fcc21fcc4bc9" name="capella-collab-manager (app)">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="ec30f2ac-b748-44f0-83e0-3e87cd357025"
+                    name="TeamForCapella" abstractType="#c162b3d5-bf24-4333-a581-acdc0d623160"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="08e04992-09e1-49b9-abac-c8d5d4cb2467" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="f7e1d275-a20e-4372-9d11-05a65958e09f" name="CP 3" orientation="IN"
+                    kind="FLOW"/>
+                <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                    id="c162b3d5-bf24-4333-a581-acdc0d623160" name="TeamForCapella"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="93aa7e69-dd5e-49cc-a7b8-58b8ab09147b" name="Polarion (app)">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="6466dd66-1e08-47c2-b061-347edbedd919" name="CP 2" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="382c29ce-62df-4dff-8a3f-ce6b90223180" name="CP 3" orientation="IN"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="7597aef5-9ed6-48b0-b102-7814d81a4301" name="Simulink (app)">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="18c3328d-c332-4530-8e85-64f5ddf71c5c" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+            </ownedLogicalComponents>
+            <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                id="5a9beb79-e687-4da9-8052-a3b10c418ebc" name="Event Triggered Applications">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="84d44d6f-dfe3-46e5-a03c-ec4c2d570ba8"
+                  name="Model-Derived Artifact Generator" abstractType="#e00f21f0-ef01-4965-819a-271b99a761c4"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="16a196f0-edcb-4985-9e43-76834dbf507b"
+                  name="Model Validation Service" abstractType="#3a5d4459-30d1-4168-b6d4-1d05b555bfeb"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="fa643bc1-2c2d-40f0-93d9-1a81697c66bf"
+                  name="Capella 2 SysML Transformation Service" abstractType="#8913cd74-4a32-4449-8726-2fa110292398"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="1059d135-88ff-44c8-a514-af8bb0bdc48e"
+                  name="Capella 2 Simulink Transform" abstractType="#d01ac8ff-e720-4b1f-a64c-21c23075163a"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="322f53ff-e978-413f-9f70-9ddd516c93e6"
+                  name="Capella Model Modifiers" abstractType="#9b784d36-0f4c-4414-98b9-617a08e385d9"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="e00f21f0-ef01-4965-819a-271b99a761c4" name="Model-Derived Artifact Generator">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="b4270ee1-ee4f-4205-bd35-d22f5d7e86d0" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="f48b1987-d641-4262-b8ea-7f3091ccf87e" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="6b97ccde-06d5-426d-bd23-e586b14403d2" name="CP 3" orientation="OUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="3a5d4459-30d1-4168-b6d4-1d05b555bfeb" name="Model Validation Service">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="c6e9fbf5-9dca-4eac-8a81-225683815660" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="a0749fb1-bb3f-4f82-b2fc-74b8d5b4d6ee" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="8913cd74-4a32-4449-8726-2fa110292398" name="Capella 2 SysML Transformation Service">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="8a7dbac0-4d76-4c88-a820-a7b14fe75996" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="70e3f89f-b7bf-4bb5-99ed-4e2b84f0f11f" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="d01ac8ff-e720-4b1f-a64c-21c23075163a" name="Capella 2 Simulink Transform">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="2418bb39-edb0-4c5e-be6b-57c5d2652b33" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="1a44c894-b982-4444-869f-e1320c3ef6e8" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="9b784d36-0f4c-4414-98b9-617a08e385d9" name="Capella Model Modifiers">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="b2285c09-bdde-4b4d-8307-03d237233215" name="CP 1" orientation="IN"
+                    kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="c96a697e-0845-4e39-adcc-66b205dc6843" name="CP 2" orientation="OUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+            </ownedLogicalComponents>
+            <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                id="0c258280-86dd-4eed-8ff9-2ae1592e5fe6" name="Common Services">
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="219bdcae-589a-43fa-8b74-75bb6c091823"
+                  name="Identity and Access Management Service" abstractType="#ba48fc1f-a558-4eeb-8b6a-8cb09d4a844d"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="f2e273da-ff5e-4be3-908d-7b6617a5e602"
+                  name="Application Health Monitoring Service" abstractType="#f156d6c4-1df7-495e-b8c1-fd6f67380e3c"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="bdff741c-1d41-424a-960b-c169beb11618"
+                  name="License Usage Monitoring Service" abstractType="#b6d44009-1273-46d3-bd13-614f044aa8a4"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="7a8bd1d8-b2c0-4af2-ae68-0e7833cdad0a"
+                  name="Backup and Restore Service" abstractType="#f2b85e72-1177-4285-b65a-df79decbc642"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="51ff61bb-7ea5-4b5e-884e-a99a6d1fee48"
+                  name="Compute Resource Monitoring Service" abstractType="#5189dd7a-bb5c-4925-b4db-b3e01260a1b8"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="157df912-170a-499f-9187-f7a9bd3809b2"
+                  name="Security Services" abstractType="#a009227c-5e17-4199-90f6-7a35b6a2d3fd"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="261b8fcc-c356-4586-a81d-3e5471268c12"
+                  name="Git Repository Management Service" abstractType="#350170ce-d65b-4377-965b-375e5d196c7b"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="b87053e7-7822-4fdb-8de7-0a6c674f1821"
+                  name="Application Register" abstractType="#2a358df0-7b99-461a-a72a-c508cd8df09a"/>
+              <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="bd84c545-7aeb-42a5-a82b-3061a60e7daa"
+                  name="SaaS Connector" abstractType="#34c9b810-8f71-4f93-a60c-e6548173ad8a"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="ba48fc1f-a558-4eeb-8b6a-8cb09d4a844d" name="Identity and Access Management Service"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="f156d6c4-1df7-495e-b8c1-fd6f67380e3c" name="Application Health Monitoring Service"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="b6d44009-1273-46d3-bd13-614f044aa8a4" name="License Usage Monitoring Service"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="f2b85e72-1177-4285-b65a-df79decbc642" name="Backup and Restore Service"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="5189dd7a-bb5c-4925-b4db-b3e01260a1b8" name="Compute Resource Monitoring Service"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="a009227c-5e17-4199-90f6-7a35b6a2d3fd" name="Security Services"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="350170ce-d65b-4377-965b-375e5d196c7b" name="Git Repository Management Service">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="f6e71ed8-71fa-4de0-a8f3-e7137b7eca8b"
+                    name="Capella Model Repository" abstractType="#51445a8a-efcc-430e-8562-4a295d5cd504"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="11711ea4-6227-4c10-a5ce-7efd3cfbe140"
+                    name="SysML Model Repository" abstractType="#558af10f-ca38-41a9-b4a5-945ecc329611"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="adf77337-0131-4d7b-8636-10ce2d034528"
+                    name="Simulink Model Repository" abstractType="#814bde21-44e5-496c-8c8c-66d74c3c78c8"/>
+                <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                    id="51445a8a-efcc-430e-8562-4a295d5cd504" name="Capella Model Repository">
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="38b174e5-72b4-455c-89ff-572bc4c88622" name="CP 1" orientation="IN"
+                      kind="FLOW"/>
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="50744ba6-bbb7-4c03-af1b-4017a194b48a" name="CP 3" orientation="OUT"
+                      kind="FLOW"/>
+                </ownedLogicalComponents>
+                <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                    id="558af10f-ca38-41a9-b4a5-945ecc329611" name="SysML Model Repository">
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="537901c0-ef19-4ecd-a796-a596c90debca" name="CP 1" orientation="IN"
+                      kind="FLOW"/>
+                </ownedLogicalComponents>
+                <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                    id="814bde21-44e5-496c-8c8c-66d74c3c78c8" name="Simulink Model Repository">
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="222a50cf-62a0-42a2-8bd1-0c2eb5e65898" name="CP 1" orientation="IN"
+                      kind="FLOW"/>
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="22ad0d36-ddc9-4c3c-84ea-7eb6ab617d35" name="CP 2" orientation="OUT"
+                      kind="FLOW"/>
+                </ownedLogicalComponents>
+              </ownedLogicalComponents>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="2a358df0-7b99-461a-a72a-c508cd8df09a" name="Application Register"/>
+              <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                  id="34c9b810-8f71-4f93-a60c-e6548173ad8a" name="SaaS Connector">
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="a81efb63-8d8f-419c-8d3a-03a35eecae0b" name="s" orientation="INOUT"
+                    kind="FLOW"/>
+              </ownedLogicalComponents>
+            </ownedLogicalComponents>
+          </ownedLogicalComponents>
+          <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+              id="bdc9145c-ee1b-4e6c-bf30-44b101f513a6" name="Confluence (SaaS)">
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="974899da-99b3-405c-a805-d2a1e1d60a79" name="CP 1" orientation="IN"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="b6a371e0-0341-4462-85a7-f8b3787f6a00" name="CP 2" orientation="IN"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="6a48691c-cf47-4bc0-ad1c-f7c3e7cdc0c3" name="CP 3" orientation="INOUT"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="07799539-3c4b-490e-9f50-9a6b5ea7c647" name="CP 4" orientation="INOUT"
+                kind="FLOW"/>
+          </ownedLogicalComponents>
+          <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+              id="4dfa4d59-8a9e-4c79-bc43-e57b5889e578" name="Jira (SaaS)">
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="0b9880ad-23d0-4d3f-abb2-2a43e1e22d61" name="CP 1" orientation="INOUT"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="b81c1c44-e29d-4476-ae27-dff90620dc51" name="CP 2" orientation="INOUT"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="b3457675-4d79-4795-96ad-2ce09475bffc" name="CP 3" orientation="OUT"
+                kind="FLOW"/>
+          </ownedLogicalComponents>
         </ownedLogicalComponents>
       </ownedLogicalComponentPkg>
       <ownedSystemAnalysisRealizations xsi:type="org.polarsys.capella.core.data.la:SystemAnalysisRealization"
