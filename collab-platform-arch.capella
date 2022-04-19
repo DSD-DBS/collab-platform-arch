@@ -351,6 +351,8 @@
                 name="Application Management Services" abstractType="#7acda9af-68e4-49b9-a178-bb86d13b074a"/>
             <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="f4ea882c-5fe4-4625-925c-05b6491e0b3a"
                 name="Cost Management Service" abstractType="#ff0dbadb-c69c-4b6d-95ef-5974129924b8"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="41aeccad-6c7a-46dc-8f43-41a1c81b8cc6"
+                name="Issue Tracker" abstractType="#f184e567-a988-480c-a9eb-9c3b0fd1d3d4"/>
             <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="2069afa2-6f8c-4473-8c50-ad1cbc4d67cf"
                 name="Identitiy and Access Management Service"/>
             <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8"
@@ -371,6 +373,8 @@
                 name="Application Management Services"/>
             <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ff0dbadb-c69c-4b6d-95ef-5974129924b8"
                 name="Cost Management Service"/>
+            <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="f184e567-a988-480c-a9eb-9c3b0fd1d3d4"
+                name="Issue Tracker"/>
           </ownedEntities>
         </ownedEntities>
       </ownedEntityPkg>
