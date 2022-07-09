@@ -43,7 +43,20 @@
       <ownedFunctionPkg xsi:type="org.polarsys.capella.core.data.oa:OperationalActivityPkg"
           id="1dee4d96-4a4c-4069-ab25-a7420e1b4943" name="Operational Activities">
         <ownedOperationalActivities xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
-            id="1505db5d-5bd3-4ddd-87b9-9b049bb84f8a" name="Root Operational Activity"/>
+            id="1505db5d-5bd3-4ddd-87b9-9b049bb84f8a" name="Root Operational Activity">
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="02c899ce-617e-40ff-84e7-03844b3144e2" name="provide requirements"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="3d0cbfda-9836-434e-9a67-de19330b6dcc" name="manage requirements"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="b7582e7c-e1d5-4725-b7d2-5b14fc1b1bf2" name="design, plan and execute tests"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="65579cf6-57f0-4c6f-9b17-fac29d364318" name="collect test evidence"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="28a4f030-33ee-4da5-91ac-63a51e1b6a63" name="report defects"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="e860afd5-78c1-428e-a01a-f066aaa25157" name="capture requirement validity"/>
+        </ownedOperationalActivities>
       </ownedFunctionPkg>
       <ownedAbstractCapabilityPkg xsi:type="org.polarsys.capella.core.data.oa:OperationalCapabilityPkg"
           id="b182d37e-518e-46f0-ae5b-048de01e9c08" name="Operational Capabilities">
@@ -211,6 +224,20 @@
             name="Application Support Team" abstractType="#fce14763-d7f8-4680-9896-233df0f70e2a"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="a0f01d3d-b39a-450d-8bf6-0bfa6e0d2be8"
             name="Collaboration Platform" abstractType="#a992e9f8-a37c-4697-87d6-5fdef1ad1996"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="cd8db145-371d-4aa4-b810-2086aee994a8"
+            name="Requirements Management Tool" abstractType="#7e66926b-937b-4822-b4e3-93371ca4dd7a"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="3d8c766f-23bc-48b9-a18e-ad81a04559c5"
+            name="Project Stakeholder" abstractType="#e0ede2d8-b205-46d7-9c2a-94f53f96a3b0"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="826aab68-2837-402d-9907-0dcf113fb266"
+            name="IVVQ Toolchain" abstractType="#c1892fa9-2f25-4493-b8ee-05d6bb949da6"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="600ae798-eaae-4f22-802f-ceaa113978fd"
+            name="IVVQ team" abstractType="#08df1d58-6689-42c4-835f-8e3d4c5ea399"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="90972533-3ebb-4c03-a244-cc92046beff0"
+            name="Systems Engineering Tool" abstractType="#14c1620d-874b-420a-9fa7-17d604a01a25"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="d434a2f0-8733-4570-919e-4555f34143e1"
+            name="Document Management" abstractType="#1a972fd4-1e45-417b-8a87-ca6bb1eb8633"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="4c22e890-e0a2-4bbf-80ea-bccff7f79117"
+            name="Systems Engineering Configuration Management Tool" abstractType="#602e111d-e8c4-46fa-8366-eb59f9f16624"/>
         <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="fd019fba-2636-4d7f-9a00-0ea76cb2b52a"
             name="Content Author" actor="true" human="true"/>
         <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ee350a55-b316-40c0-9b33-988006a60a9b"
@@ -377,6 +404,41 @@
                 name="Issue Tracker"/>
           </ownedEntities>
         </ownedEntities>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="7e66926b-937b-4822-b4e3-93371ca4dd7a"
+            name="Requirements Management Tool">
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="d6e3485d-2c03-4d9c-881e-b98852b507f6" targetElement="#3d0cbfda-9836-434e-9a67-de19330b6dcc"
+              sourceElement="#7e66926b-937b-4822-b4e3-93371ca4dd7a"/>
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="3ff2d089-b691-4891-b557-909d27a50768" targetElement="#e860afd5-78c1-428e-a01a-f066aaa25157"
+              sourceElement="#7e66926b-937b-4822-b4e3-93371ca4dd7a"/>
+        </ownedEntities>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="e0ede2d8-b205-46d7-9c2a-94f53f96a3b0"
+            name="Project Stakeholder" actor="true" human="true">
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="c1b8d13b-fb03-4e1d-88fc-fc09849e07e3" targetElement="#02c899ce-617e-40ff-84e7-03844b3144e2"
+              sourceElement="#e0ede2d8-b205-46d7-9c2a-94f53f96a3b0"/>
+        </ownedEntities>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="c1892fa9-2f25-4493-b8ee-05d6bb949da6"
+            name="IVVQ Toolchain">
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="dec07aa6-72cd-4fe7-a135-177ab6d20e3f" targetElement="#b7582e7c-e1d5-4725-b7d2-5b14fc1b1bf2"
+              sourceElement="#c1892fa9-2f25-4493-b8ee-05d6bb949da6"/>
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="3a734366-a7f3-48ec-8439-09d5459e8029" targetElement="#65579cf6-57f0-4c6f-9b17-fac29d364318"
+              sourceElement="#c1892fa9-2f25-4493-b8ee-05d6bb949da6"/>
+          <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+              id="e2dede6e-e24a-4104-8d59-d93a4aef78b3" targetElement="#28a4f030-33ee-4da5-91ac-63a51e1b6a63"
+              sourceElement="#c1892fa9-2f25-4493-b8ee-05d6bb949da6"/>
+        </ownedEntities>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="08df1d58-6689-42c4-835f-8e3d4c5ea399"
+            name="IVVQ team" actor="true" human="true"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="14c1620d-874b-420a-9fa7-17d604a01a25"
+            name="Systems Engineering Tool"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="1a972fd4-1e45-417b-8a87-ca6bb1eb8633"
+            name="Document Management"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="602e111d-e8c4-46fa-8366-eb59f9f16624"
+            name="Systems Engineering Configuration Management Tool"/>
       </ownedEntityPkg>
     </ownedArchitectures>
     <ownedArchitectures xsi:type="org.polarsys.capella.core.data.ctx:SystemAnalysis"
