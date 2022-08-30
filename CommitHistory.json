@@ -9,851 +9,7 @@
         "properties": [],
         "changes": [
           {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2425",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b182d37e-518e-46f0-ae5b-048de01e9c08",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#465cbbd8-5b32-49c2-836c-bcd61096fa71",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8acc131e-b773-4933-9397-475e7ccf8410",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c767548c-810e-4903-b0af-eeefcefbc1eb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#31848253-8c75-4084-9124-1b3078c75dbc",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0fd19fe7-3b94-462b-975c-e14f930a352d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a9241802-46de-49fb-8976-cf783cb9f31e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff0dbadb-c69c-4b6d-95ef-5974129924b8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5175",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16a196f0-edcb-4985-9e43-76834dbf507b",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#515153eb-fa27-473f-ad56-355261734d25",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4582a988-43b9-4030-a244-47f14ee06079",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5149",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#47dd39f5-d48d-4705-8f6f-b6704cde5d1d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b2285c09-bdde-4b4d-8307-03d237233215",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fc998e70-6692-41f3-ad08-6c080f597217",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#db57de50-dde4-402a-bd45-8e48e04f000a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b0a422d0-5a69-4a96-87c9-759aafb9244e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_gJ3c8LsGEey295QqzHHzCQ",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#eed80bf1-5e6a-41f4-b311-fbbf05b9cd3d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#234c6823-e6cf-4777-8666-a8472ce2ecd7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a63bbf0d-425d-4624-97fc-fc153d03616c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f184e567-a988-480c-a9eb-9c3b0fd1d3d4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51eb5bb5-bd48-4902-8354-b88ca13a0dd7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e7279b1f-1822-4221-8fb0-c30f1e8ea7e4",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#92f64ec8-3910-4367-82cc-ebfae8c97dca",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec6a7551-0851-4a41-979c-1ca385fab585",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#daf1ee23-89bd-4260-880a-c0d662f2c9bc",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#74fce280-a268-4114-854d-de5deab08339",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#eb8e07d1-44b6-45e9-b64f-5772edba94ad",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7acda9af-68e4-49b9-a178-bb86d13b074a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0f62c107-557b-404f-994c-6cae0614f3a5",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e3bddace-6fba-46d9-9477-423c5034467a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#031904b6-8614-43fc-b7f9-0e63623011f7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d45b19a5-07ed-43fe-b59a-aef273b7f0e8",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd8e52b8-cc43-4050-a9a0-9fdd53f54cf3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#38b174e5-72b4-455c-89ff-572bc4c88622",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9b784d36-0f4c-4414-98b9-617a08e385d9",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b61ae78-b977-49fd-b83f-12691954007e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1009f86f-68df-474a-af6f-9b0827eb9833",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#41aeccad-6c7a-46dc-8f43-41a1c81b8cc6",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6d9b6e0-6916-44e7-9991-f06699c1398d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dec07aa6-72cd-4fe7-a135-177ab6d20e3f",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b4270ee1-ee4f-4205-bd35-d22f5d7e86d0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3c3f554-444c-49d4-a86f-5d08237d4b9e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f4ea882c-5fe4-4625-925c-05b6491e0b3a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f4823802-6e87-4130-a0a6-16c93b80a77f",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5a47800a-885b-40fd-a509-fae346d16e32",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#87ff3a89-a8bf-4002-a4f0-1272cb6a3cbe",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f0eb62b9-4ae9-45c0-866a-85edeaaa32c1",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec568341-14d1-49d0-ab1b-37fb91b2e831",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ef7f70c5-c1cf-43fb-b7c7-24af002fd62c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#aec63c88-2d96-4113-a4d1-9b9532ee762c",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#05357236-4458-4d04-931c-94395c55604e",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e0bfa066-696e-49ae-b267-ece23ad5233f",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#07799539-3c4b-490e-9f50-9a6b5ea7c647",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#55da101f-c426-45b7-8965-41a30752dc39",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#654604d6-c691-4dd8-998d-fff0644a190a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#63792d9d-b502-42d7-8110-c3e7d8e6216e",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ee350a55-b316-40c0-9b33-988006a60a9b",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7c996d06-50f2-4233-aa24-2fe8b3577b51",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#313d38ec-d801-4466-97ef-596b2a7022ad",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#29801371-45d7-4a0e-bffe-0a5712727617",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9167a05b-07d1-4f9c-b430-bb41e145ef91",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#974899da-99b3-405c-a805-d2a1e1d60a79",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#046a80aa-a3be-469d-b8f5-867b5df0ad8a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec8cf044-9cb6-4729-bb61-0efb53737cf9",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e2dede6e-e24a-4104-8d59-d93a4aef78b3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8913cd74-4a32-4449-8726-2fa110292398",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b0ba1b5-dbfa-483c-a5bd-133ca237f93a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5785056c-372d-4c50-8440-9edd1fb4b072",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e5bbdc78-6e0b-48e7-aae7-399a39f38436",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#22ad0d36-ddc9-4c3c-84ea-7eb6ab617d35",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6433cc50-a945-4e91-96a5-fa2b470b451d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#65579cf6-57f0-4c6f-9b17-fac29d364318",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d6a2cf0c-6b76-40c1-abf0-e26f01907c58",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d6e3485d-2c03-4d9c-881e-b98852b507f6",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5161f391-8f70-4156-96f6-27f46c4bec3c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d01ac8ff-e720-4b1f-a64c-21c23075163a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c4666df1-bcdd-48b1-aedf-f325d419f5fa",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6eb1cba8-4d75-4581-93d4-2b19d1501861",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a962df55-a510-4530-9b88-f34743305b42",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a2d3b9a5-6e49-4f88-b750-ca36a431c11c",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#79fa65ec-16fe-4b74-88f3-390a7ab3a540",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d9bcd4d4-121b-45bf-be4a-b3b6a3dec0c7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec1c8c31-a2ed-454c-9658-2d4902a706b0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#28a4f030-33ee-4da5-91ac-63a51e1b6a63",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7dd0899d-6720-416a-a725-4266f19a01d9",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2d6d8b78-92d3-4e72-b107-3f7855d382b1",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2123475f-f914-4802-9c40-fcbfe8ba25e0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#538e0c9c-822f-4691-8bb8-4c4f25af8a25",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fec593d9-3f54-46b2-a1aa-dc92c6446068",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#186c8f77-2865-4e37-8a94-c0b230019c58",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0327fa5-9c78-40ac-9548-09d13fbcd2b0",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9df77060-615a-41ee-bb79-817ee4c7e3ee",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08840c92-b2cd-487b-b4ed-994cca928e4a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8b99e7c6-1c76-43f8-9d62-c1ce56d14aea",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#34e6357d-b1d4-466a-a3f4-9b07f1a0ca7b",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f7e1d275-a20e-4372-9d11-05a65958e09f",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#62f3d16a-4a5a-4ed4-b980-f28e669c7c58",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ac41e7bd-6a7b-43b6-8cb4-6f1e19b7da60",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0749fb1-bb3f-4f82-b2fc-74b8d5b4d6ee",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7fd152b8-125c-4a72-b59c-b10e8a3d1cab",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#98b724fd-ec11-434a-a6b9-91d552518f75",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5135",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d84f03ef-dab8-4404-93de-3b108901b04c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2f9269a5-aa62-43c2-8c54-c01e54e70f35",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5108cb8e-a827-4094-b05d-47f82a1a8e4a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6cfef791-e474-4d0d-83f0-493bf4f9ab94",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#663f4807-2fa5-44e5-ac65-6a13a934f415",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#761b7b71-cb32-4542-ab6a-e126e934d53a",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5f799a0e-2855-4fe2-9598-5af0e9c979df",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#28567b33-0959-45f4-9298-fd86ec374d31",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a47d1149-daff-4609-b8fb-e82c9b8bdec9",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1a972fd4-1e45-417b-8a87-ca6bb1eb8633",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#350170ce-d65b-4377-965b-375e5d196c7b",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3bad8448-03e1-47a2-a17d-c580ae4864fd",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9d053e23-be2f-4f8a-9d95-078558695267",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4c01d9ac-2167-4331-8fc7-c66163339075",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a8b90e12-da4b-4f05-87b1-d34506b707ca",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#adf77337-0131-4d7b-8636-10ce2d034528",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d5fcca2f-680f-49b0-8f81-a9e1cf355f17",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#df67db2f-034e-4b46-85d3-00721019a1b8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2426",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.aird#OID3335",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f2b85e72-1177-4285-b65a-df79decbc642",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c96a697e-0845-4e39-adcc-66b205dc6843",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f15bbbb8-e9bb-4d87-a800-3b23ae1ec219",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5136",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bb099695-bddb-4684-a08b-a95221d2c3cc",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09112535-658b-4b6f-91f3-46d2858fb5cb",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#814bde21-44e5-496c-8c8c-66d74c3c78c8",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0bb6a343-3159-4b83-822f-3984d76c65d4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5aff6589-5b83-43c2-a1f8-ce0da08a82d0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#efd04d18-2913-42a3-9733-570f7623b671",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#03189fb6-db87-4375-b81f-e801248e4181",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f67f5afa-e952-4c60-8afb-dab25089f5de",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a54df00a-a49d-4275-920f-cfd61de6ec8e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1504",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50654783-fc7d-484c-bb65-893faa2c4189",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff95c558-1cc2-411b-b03c-c64d1d2fef77",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#75b79254-d476-41ce-b06e-80c4f89c204f",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50cb44f0-951d-4a2d-87eb-6f25daf0ded3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6a371e0-0341-4462-85a7-f8b3787f6a00",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e0ede2d8-b205-46d7-9c2a-94f53f96a3b0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1d989cd3-4493-459d-833d-cbdc9a421917",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7597aef5-9ed6-48b0-b102-7814d81a4301",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#41861774-88c8-4d39-9c3b-0feb9ad23af1",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#537901c0-ef19-4ecd-a796-a596c90debca",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e7a2bef4-3948-4bde-a126-380a6e457535",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f2e273da-ff5e-4be3-908d-7b6617a5e602",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2018b46a-9547-4962-87b6-36097f09731e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5039",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_nPO9ILsGEey295QqzHHzCQ",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#42cd71e9-a915-4ace-9f19-9831be76f5fd",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a2a0cbd-480b-4d56-bcf9-00560b01c5b4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0ecfc0ce-5bd3-46f6-a292-46aaef231954",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b8706f7a-b03e-4d8b-bd05-b30919b004fb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8a5f4433-c4a6-4dcb-b2a2-2a5b53b15e67",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#68c9da36-7f6f-4568-980a-473a5bb36722",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1491",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4ad790e0-0952-4b8b-bd4c-f566930d465a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b09ba4eb-0270-4996-861b-5932e42bd242",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e06a53e2-7c5a-44e8-adc6-1efbafe4cea5",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#132507af-fb07-4654-a74d-1dffce458c81",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b3457675-4d79-4795-96ad-2ce09475bffc",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7e66926b-937b-4822-b4e3-93371ca4dd7a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b78a9b5-ddbe-42f1-b937-8c0a9c89ea01",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#72c33233-3722-489b-ba5c-089dc094d0c1",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50744ba6-bbb7-4c03-af1b-4017a194b48a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#edebc8b8-fa2d-493e-892b-a3a8b315c92e",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c6e9fbf5-9dca-4eac-8a81-225683815660",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6968b0d-377c-4cd0-85d9-8f00603ffeed",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e08fad3b-938a-46dc-acc3-cceb68f1ec22",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#074ef86f-fc3c-4037-b987-4d22e74b2626",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a1307224-e34e-4b69-bacd-18addfb7b093",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3ff2d089-b691-4891-b557-909d27a50768",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#600ae798-eaae-4f22-802f-ceaa113978fd",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#915bea0f-f368-4203-9f17-9d971408422b",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b97ccde-06d5-426d-bd23-e586b14403d2",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff825861-6b84-4e2a-bb7e-2d4da9590ff6",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#069ff1d7-b396-485c-99bf-817597fde8a4",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bce414e0-9a50-41ca-b653-9d04bb720e27",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e00f21f0-ef01-4965-819a-271b99a761c4",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a31fa9c2-c54d-4f27-a23a-b2be5a271eb8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#154ab1c8-15f2-4861-8119-13b768aee8f9",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#22cf58a6-7ca2-42c1-b2ed-5365dcd6b4ec",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7224daf5-4dfd-4bb2-94dc-7d8cf9f55a4c",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a358df0-7b99-461a-a72a-c508cd8df09a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16dff783-440c-4ce1-8c2a-2d8d66df0c39",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1483",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1503",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#52864ac3-678f-4f98-a28a-45e0ad8f963a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#81c065a4-5f55-412c-b2ce-926b855632f2",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#36009701-cecc-4e40-b8d9-fcc21fcc4bc9",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b81c1c44-e29d-4476-ae27-dff90620dc51",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f360b590-4ef8-4448-ac63-9c4c24318ca7",
-            "type": "CREATED"
-          },
-          {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#5c0978f3-47be-45de-b847-ef1b9da343c4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5040",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7ccafc99-7fee-456d-9270-c16debfd411a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b238aa4-25e5-4ed0-82ed-fb89775a594d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#76b7ba68-388d-4123-ad05-dcf21a9ae5ab",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f1331f4d-b177-4c2d-9f14-2c2feb7564d3",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#92b82cf1-3251-49bf-b26e-a8d3c6dd4248",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#93aa7e69-dd5e-49cc-a7b8-58b8ab09147b",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3c85dce3-b055-4c48-84cd-baf2b6e48747",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6466dd66-1e08-47c2-b061-347edbedd919",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1dee4d96-4a4c-4069-ab25-a7420e1b4943",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e277f113-85ce-456a-a3c8-1f54270ef045",
             "type": "CREATED"
           },
           {
@@ -861,719 +17,11 @@
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3a734366-a7f3-48ec-8439-09d5459e8029",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b5df8e45-8aaf-4c42-953d-edc70a2480cd",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c9afdb37-dc3c-45c5-ba5d-df9656f483bb",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d63ae38d-950e-425d-8010-af23339e46be",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#40a2751e-b300-47f8-a50d-a25ee8d908c1",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdff741c-1d41-424a-960b-c169beb11618",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9337db1f-0a85-44ef-8b4c-1794e08fc8e3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8261a741-ee29-4118-a6fa-cb7dc85da655",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bfc102d0-52f0-4235-9023-7efc6e5b3577",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b46a0ff-6554-4839-8644-6587c91eb3bd",
             "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4db669d9-7734-4c12-8e46-af5b786927fe",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b8c6c191-6f48-450c-ac46-adda0689fd8d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#157df912-170a-499f-9187-f7a9bd3809b2",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#313436ff-39d0-41db-b4f4-7d85f057a9bc",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9972dcc4-7d4b-46b8-8c70-2f49afe86996",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0c258280-86dd-4eed-8ff9-2ae1592e5fe6",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#12c64009-d14d-44f1-a114-29bad0861f51",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#decf162b-4a50-4d16-9012-dbc51ad6ee47",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5a9beb79-e687-4da9-8052-a3b10c418ebc",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#519b6835-808c-4432-a8fd-ac2c1e028bb6",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e06796b1-826d-4904-9f35-545dd01b7e8a",
-            "type": "DELETED"
           },
           {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#be1c2308-e786-442a-a53d-cba308d47dad",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#29b30b7a-cda6-41ed-885e-8c68bbb007f3",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8e574eda-8083-4f11-987b-4cc7af10b04d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec30f2ac-b748-44f0-83e0-3e87cd357025",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#63cdfdea-eb44-492d-8760-5f071430b298",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1511",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b5e45749-521e-4665-b002-4c0600023bb7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d9cc2fd7-2999-410f-9d06-b13211608573",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fce14763-d7f8-4680-9896-233df0f70e2a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#410035bf-5213-4e5c-8387-03743b4001c8",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6c02053f-7f9a-4525-9a2f-457ac4d91c63",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#207a7683-659f-4448-9893-ff9b4595781c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2bd331ca-1e09-4148-ba72-c82323298afb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#558af10f-ca38-41a9-b4a5-945ecc329611",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0fd19907-96fa-4a1d-9ef8-b40f0fcf15fd",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae6b0d1f-91e6-4b62-81cc-103aed4af691",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2418bb39-edb0-4c5e-be6b-57c5d2652b33",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#69daed59-a053-4d80-889f-fa6415d04acf",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#191fdf51-a130-4818-a316-ef066de195c9",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#69e685cc-7e54-44a1-bc8d-e5a300e38e5a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ab7fd3ca-db37-4feb-8818-9d75bd723f60",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#11d30628-0d58-47e0-9b48-0a02acc86a22",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e1f728b6-db41-4ba9-a256-62296d74b68f",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c162b3d5-bf24-4333-a581-acdc0d623160",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9200d481-1e40-4c5f-995c-328f8ebbb775",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ca56bcdb-d61d-48fe-b1a2-4ef1ba7997c1",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fdc2c9c8-8218-48a5-8b65-da11a684031d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#84d44d6f-dfe3-46e5-a03c-ec4c2d570ba8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b41f11a0-af3e-4803-808a-15a0fa48f6fb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8975ce4e-36a5-4c47-8e33-d27a8f3d3da9",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e4d9522b-5033-4975-b63a-8d9c2cb0db31",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1484",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bc86ee1d-8fcd-4183-8266-d2757fcdbe49",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bd84c545-7aeb-42a5-a82b-3061a60e7daa",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#70e3f89f-b7bf-4bb5-99ed-4e2b84f0f11f",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5189dd7a-bb5c-4925-b4db-b3e01260a1b8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d0578851-6c31-4c1a-85a3-52675be35a1d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#149fcdfb-322f-4fc2-89b4-7e277d0cbaae",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ed50eff4-83f2-4aed-9e7f-863bd8e08ca6",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f48b1987-d641-4262-b8ea-7f3091ccf87e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6e199b4d-d26c-469b-afe6-f39abe9d0e3c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#11711ea4-6227-4c10-a5ce-7efd3cfbe140",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0f01d3d-b39a-450d-8bf6-0bfa6e0d2be8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#21cc3e50-bb86-4ff9-96e0-1886cce40b12",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8a7dbac0-4d76-4c88-a820-a7b14fe75996",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4f0ee488-4374-4aba-9c1b-2a1c68b59067",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#180917da-8a49-4b50-b290-facd12f7193a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c601256d-a688-448d-b2fd-87ba54966267",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#47d033b0-8b71-459f-a48c-d947738162c6",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7f1cbbf7-edd3-4902-9f10-fc559c0e8270",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51445a8a-efcc-430e-8562-4a295d5cd504",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae2fbf4e-4ca1-4808-9139-546a04fd37c2",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#64e1e07e-7459-4993-9216-a7b81fb4fc9b",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1512",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1d273b49-cf53-421b-a327-6ef6cee748fe",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b6d52ce-6bc2-43b7-a3b2-0999c89695d3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08e04992-09e1-49b9-abac-c8d5d4cb2467",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#261b8fcc-c356-4586-a81d-3e5471268c12",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f773f15a-930b-4566-ae74-5d93b83408b9",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#25536090-b95c-4900-b966-0fc1f7649fe5",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_gAUfYLsGEey295QqzHHzCQ",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#82cfeae8-b7e1-4a21-ba18-edaf7c90eafb",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fcf700ea-eeb6-4190-9dd2-3a2a4fcd2324",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#be5ee57d-ca37-4a46-b435-a45a2df55973",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c43742e1-b5f4-428b-a634-6261ecb876a8",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51ff61bb-7ea5-4b5e-884e-a99a6d1fee48",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#583f6bd7-4ac8-4e84-b839-e10b401fbaa3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1492",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#02b2df4b-047d-43ca-8524-e866262754bc",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e67d5aab-62f9-4829-9402-8800e7d3389c",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1e511bdf-e56d-42bc-b643-a3dfc5c81924",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2afd76df-53ed-4019-9629-b3fead6e8240",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1505db5d-5bd3-4ddd-87b9-9b049bb84f8a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#96e0917c-ff50-435f-bf6e-baea3f0adbc3",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b47f1a3a-2bdf-41db-9505-03bf526a71ec",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a81efb63-8d8f-419c-8d3a-03a35eecae0b",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#33e6ee31-f1b6-467f-8c23-f93fae696d90",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2418",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1892fa9-2f25-4493-b8ee-05d6bb949da6",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#995db1a2-c2c7-4deb-ab87-5a1cb47ebab8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b0fd5084-c91e-49f7-b8e6-527080210414",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3a5d4459-30d1-4168-b6d4-1d05b555bfeb",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#da7c480d-46e5-4586-803b-36d93ae10dfc",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1473aaf5-7886-44be-9545-3fb32708e616",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5174",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#488daa67-b7ef-4114-b361-b56d6473368c",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#cb220f07-7449-4267-ad20-7bb03c194692",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd019fba-2636-4d7f-9a00-0ea76cb2b52a",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae2c8d4e-b271-4a16-ab12-4f3cce715b1d",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3d22e23-8024-4c7a-8bc0-266d945d092a",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1482524c-4a8e-4c20-aee4-e6bc3d3d2cdb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b7582e7c-e1d5-4725-b7d2-5b14fc1b1bf2",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#864ac106-336c-48b0-81c0-935cadad200e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6d44009-1273-46d3-bd13-614f044aa8a4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d434a2f0-8733-4570-919e-4555f34143e1",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#974b9091-9603-4be4-9cad-82e7466fb167",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#219bdcae-589a-43fa-8b74-75bb6c091823",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#599b4e5b-7214-46ef-abd6-1f421af45f1f",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID3439",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c254bba9-11f6-4924-9d61-79e13072f925",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#cd8db145-371d-4aa4-b810-2086aee994a8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2069afa2-6f8c-4473-8c50-ad1cbc4d67cf",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b9880ad-23d0-4d3f-abb2-2a43e1e22d61",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#06b2d5fa-6cb9-42c7-b7d0-140b7dfa100d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e8102768-f777-4816-952a-1d94e62e8ec0",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a29227c3-268d-4108-92fb-8048998955e8",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#38f27933-58dd-4b52-8fc9-117a87142edb",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#382c29ce-62df-4dff-8a3f-ce6b90223180",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#10e76250-d440-49fb-9904-51e187795b65",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#587856f6-036e-418f-b6b1-19892e84848e",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dc46cbb7-c9ce-493e-bb01-0c0070cc69d3",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5c229a08-1567-489e-9da7-07258451bbae",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c2a7b37f-547d-41b0-82fc-e9313405e799",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1f19f7f5-311e-4d9a-8333-8c757d1bbd74",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6bd6ec30-b11c-4de2-a3e3-0e2e509bc781",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ceb10afc-007b-4174-b740-b751df36d463",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#112562da-9270-4940-9716-5f164399dee1",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7da5e7fa-fec5-4813-9dc1-2a639299b48c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b87053e7-7822-4fdb-8de7-0a6c674f1821",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9cd2cc99-e19e-4786-8332-a97ee9521734",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3c93ec79-db23-4d3f-a30b-e7e3c1f64244",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#27cf330f-69b8-4310-b170-a0934c5d25f4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f6e71ed8-71fa-4de0-a8f3-e7137b7eca8b",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5150",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3e98acdc-1621-44d8-a5d2-870346364db7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5163",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1059d135-88ff-44c8-a514-af8bb0bdc48e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c6dc2b5c-c5c2-45eb-868f-0d9c29205fcf",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#87c8c27f-4431-49cd-a9ae-64e2c31f9b88",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#085d8119-c843-49e7-ae87-9fbf2f9b4477",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dda47df4-81ef-4509-8fbd-29323fff57d9",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#90972533-3ebb-4c03-a244-cc92046beff0",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#222a50cf-62a0-42a2-8bd1-0c2eb5e65898",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.aird#OID3334",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#acca21e8-1332-47b2-bd0c-de63fa1680ff",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8ddcc52e-7653-4c00-a962-16ed077f2740",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2924de13-370e-4513-8db6-d6d6825e7188",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#25050d5c-a356-48ff-b7a0-a226f3516253",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#826aab68-2837-402d-9907-0dcf113fb266",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#57610649-7447-4b91-ad0c-a2cc585ca8b4",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5894e353-b75a-44ef-bf06-d13d275ea347",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#71a35f09-3239-43ba-ba99-458cf005b175",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2417",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1a44c894-b982-4444-869f-e1320c3ef6e8",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fa3cf5dc-aa97-45e0-8c21-006ac31a4741",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7a289dd9-24ec-4c1c-8ae0-ceb47f81e9ee",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ed32c401-ff99-4a6f-ad15-713cb078241c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID3438",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#18c3328d-c332-4530-8e85-64f5ddf71c5c",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3d14161-800d-41af-966e-a47e9c0bd5a7",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e868d774-c70b-4d36-b440-7a74c213206e",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdc1fb04-4d6e-4692-bb3f-2a9ea826d676",
-            "type": "DELETED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e860afd5-78c1-428e-a01a-f066aaa25157",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09c7c87d-be32-442d-ad71-da32211f26cb",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a27612a-76b1-4e2e-a9ff-6c179485567e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#96404c7a-47fe-4536-8902-a9436a156b78",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a992e9f8-a37c-4697-87d6-5fdef1ad1996",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1f80bd2-d4f3-4065-ac42-91328dab0372",
             "type": "CREATED"
           },
           {
@@ -1581,43 +29,275 @@
             "type": "MODIFIED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#10ddc32b-2efa-44a9-8054-b742d933935a",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2d6d8b78-92d3-4e72-b107-3f7855d382b1",
             "type": "DELETED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#55537857-8e15-4084-8080-4e16801bdc42",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a27612a-76b1-4e2e-a9ff-6c179485567e",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#27a9159b-e457-4ecd-bdb3-7d42f8bc830c",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1dee4d96-4a4c-4069-ab25-a7420e1b4943",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5162",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff0dbadb-c69c-4b6d-95ef-5974129924b8",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fa643bc1-2c2d-40f0-93d9-1a81697c66bf",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3a734366-a7f3-48ec-8439-09d5459e8029",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d0ff4d6a-a45e-4c32-a6f6-3e4c1ade1b18",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16a196f0-edcb-4985-9e43-76834dbf507b",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#410035bf-5213-4e5c-8387-03743b4001c8",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08840c92-b2cd-487b-b4ed-994cca928e4a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2123475f-f914-4802-9c40-fcbfe8ba25e0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b8706f7a-b03e-4d8b-bd05-b30919b004fb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0fd19907-96fa-4a1d-9ef8-b40f0fcf15fd",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#56f619b0-0858-4a39-b3f2-c71946287c44",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3ff2d089-b691-4891-b557-909d27a50768",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0327fa5-9c78-40ac-9548-09d13fbcd2b0",
             "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1b65cfbc-b3a6-4c09-a6ea-160ee537e975",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3798da0d-f6e8-4cbb-b190-53bce10c96e9",
-            "type": "CREATED"
           },
           {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#7ba2ca97-09ba-4929-bba8-ddcadbde1038",
             "type": "DELETED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_nNoaoLsGEey295QqzHHzCQ",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#65579cf6-57f0-4c6f-9b17-fac29d364318",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b81c1c44-e29d-4476-ae27-dff90620dc51",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#995db1a2-c2c7-4deb-ab87-5a1cb47ebab8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4582a988-43b9-4030-a244-47f14ee06079",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#69e685cc-7e54-44a1-bc8d-e5a300e38e5a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID3438",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#157df912-170a-499f-9187-f7a9bd3809b2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6c02053f-7f9a-4525-9a2f-457ac4d91c63",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#92f64ec8-3910-4367-82cc-ebfae8c97dca",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d6e3485d-2c03-4d9c-881e-b98852b507f6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec568341-14d1-49d0-ab1b-37fb91b2e831",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4f0ee488-4374-4aba-9c1b-2a1c68b59067",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e1f728b6-db41-4ba9-a256-62296d74b68f",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ceb10afc-007b-4174-b740-b751df36d463",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2426",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_gJ3c8LsGEey295QqzHHzCQ",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#76b7ba68-388d-4123-ad05-dcf21a9ae5ab",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1492",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b09ba4eb-0270-4996-861b-5932e42bd242",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fec593d9-3f54-46b2-a1aa-dc92c6446068",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#64e1e07e-7459-4993-9216-a7b81fb4fc9b",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3d22e23-8024-4c7a-8bc0-266d945d092a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51445a8a-efcc-430e-8562-4a295d5cd504",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#87c8c27f-4431-49cd-a9ae-64e2c31f9b88",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a31fa9c2-c54d-4f27-a23a-b2be5a271eb8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fa3cf5dc-aa97-45e0-8c21-006ac31a4741",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#537901c0-ef19-4ecd-a796-a596c90debca",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff825861-6b84-4e2a-bb7e-2d4da9590ff6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#cd8db145-371d-4aa4-b810-2086aee994a8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#583f6bd7-4ac8-4e84-b839-e10b401fbaa3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#11d30628-0d58-47e0-9b48-0a02acc86a22",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4c01d9ac-2167-4331-8fc7-c66163339075",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ca56bcdb-d61d-48fe-b1a2-4ef1ba7997c1",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b7582e7c-e1d5-4725-b7d2-5b14fc1b1bf2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#27cf330f-69b8-4310-b170-a0934c5d25f4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1473aaf5-7886-44be-9545-3fb32708e616",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f2b85e72-1177-4285-b65a-df79decbc642",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#74fce280-a268-4114-854d-de5deab08339",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5108cb8e-a827-4094-b05d-47f82a1a8e4a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e0ede2d8-b205-46d7-9c2a-94f53f96a3b0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b5df8e45-8aaf-4c42-953d-edc70a2480cd",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b2285c09-bdde-4b4d-8307-03d237233215",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#154ab1c8-15f2-4861-8119-13b768aee8f9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5163",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f15bbbb8-e9bb-4d87-a800-3b23ae1ec219",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b78a9b5-ddbe-42f1-b937-8c0a9c89ea01",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2f9269a5-aa62-43c2-8c54-c01e54e70f35",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d45b19a5-07ed-43fe-b59a-aef273b7f0e8",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec1c8c31-a2ed-454c-9658-2d4902a706b0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50744ba6-bbb7-4c03-af1b-4017a194b48a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9200d481-1e40-4c5f-995c-328f8ebbb775",
             "type": "CREATED"
           },
           {
@@ -1625,79 +305,47 @@
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f156d6c4-1df7-495e-b8c1-fd6f67380e3c",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd9dbd0e-cf0f-4a57-a1b6-3913486dfb04",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2018b46a-9547-4962-87b6-36097f09731e",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#17cc5297-9e44-472c-99de-25475d661d40",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3bad8448-03e1-47a2-a17d-c580ae4864fd",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#34c9b810-8f71-4f93-a60c-e6548173ad8a",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5189dd7a-bb5c-4925-b4db-b3e01260a1b8",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1b8d13b-fb03-4e1d-88fc-fc09849e07e3",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a54df00a-a49d-4275-920f-cfd61de6ec8e",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d39fc2ac-fdd2-4eae-83c4-8ddb84139e9f",
-            "type": "CREATED"
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#761b7b71-cb32-4542-ab6a-e126e934d53a",
+            "type": "DELETED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1f19a67f-4658-42d5-8da4-8830a065ec55",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdc9145c-ee1b-4e6c-bf30-44b101f513a6",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#37856665-221d-4142-9dcb-67c16003978e",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9ba7fcac-8e87-4f75-aa65-648dba9c5442",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#14c1620d-874b-420a-9fa7-17d604a01a25",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4c22e890-e0a2-4bbf-80ea-bccff7f79117",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f55d0d1f-1239-458b-bdb0-bb1d06298349",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d09be31a-7401-4e6e-8d18-aa0eaf4f9566",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ba48fc1f-a558-4eeb-8b6a-8cb09d4a844d",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#86c7d5a4-39d0-4d80-962e-25afe9c4bea1",
-            "type": "CREATED"
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#daf1ee23-89bd-4260-880a-c0d662f2c9bc",
+            "type": "DELETED"
           },
           {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#e41d464f-47b1-4e11-ac61-a837bb503a27",
             "type": "MODIFIED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3d0cbfda-9836-434e-9a67-de19330b6dcc",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#cb220f07-7449-4267-ad20-7bb03c194692",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1a972fd4-1e45-417b-8a87-ca6bb1eb8633",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#20cf33cc-bf1f-43bf-b2a9-0ecccce4d0f4",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#28a4f030-33ee-4da5-91ac-63a51e1b6a63",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3e98acdc-1621-44d8-a5d2-870346364db7",
             "type": "CREATED"
           },
           {
@@ -1705,63 +353,111 @@
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4ec30913-4d8b-433d-9ea8-14b65ce387ba",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d0578851-6c31-4c1a-85a3-52675be35a1d",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7f96b325-be69-4d29-a355-59516b4ae9ab",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#efd04d18-2913-42a3-9733-570f7623b671",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b5e45749-521e-4665-b002-4c0600023bb7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3798da0d-f6e8-4cbb-b190-53bce10c96e9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8975ce4e-36a5-4c47-8e33-d27a8f3d3da9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#87ff3a89-a8bf-4002-a4f0-1272cb6a3cbe",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b8c6c191-6f48-450c-ac46-adda0689fd8d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1f19f7f5-311e-4d9a-8333-8c757d1bbd74",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2069afa2-6f8c-4473-8c50-ad1cbc4d67cf",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1482524c-4a8e-4c20-aee4-e6bc3d3d2cdb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#207a7683-659f-4448-9893-ff9b4595781c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd019fba-2636-4d7f-9a00-0ea76cb2b52a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b6d52ce-6bc2-43b7-a3b2-0999c89695d3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1e511bdf-e56d-42bc-b643-a3dfc5c81924",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7f1cbbf7-edd3-4902-9f10-fc559c0e8270",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#93aa7e69-dd5e-49cc-a7b8-58b8ab09147b",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f4ea882c-5fe4-4625-925c-05b6491e0b3a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#27a9159b-e457-4ecd-bdb3-7d42f8bc830c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e06a53e2-7c5a-44e8-adc6-1efbafe4cea5",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7597aef5-9ed6-48b0-b102-7814d81a4301",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e868d774-c70b-4d36-b440-7a74c213206e",
             "type": "DELETED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6a48691c-cf47-4bc0-ad1c-f7c3e7cdc0c3",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e692f4cf-d541-43ca-884d-3346eafa0af3",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#20cf33cc-bf1f-43bf-b2a9-0ecccce4d0f4",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#638c6ea5-77e5-4178-83dc-4a13d279aa55",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08df1d58-6689-42c4-835f-8e3d4c5ea399",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3d8c766f-23bc-48b9-a18e-ad81a04559c5",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d051d249-0402-44a1-bf37-1d69e228cc99",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b99692c-3aef-4245-aa4d-233a811afc00",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#602e111d-e8c4-46fa-8366-eb59f9f16624",
-            "type": "CREATED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b46a0ff-6554-4839-8644-6587c91eb3bd",
-            "type": "MODIFIED"
-          },
-          {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#56f619b0-0858-4a39-b3f2-c71946287c44",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#069ff1d7-b396-485c-99bf-817597fde8a4",
             "type": "DELETED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16cb545b-32dd-4b76-9179-32da6bd0906e",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e277f113-85ce-456a-a3c8-1f54270ef045",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#805509c3-4024-4072-9175-b65cf13a9f60",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#186c8f77-2865-4e37-8a94-c0b230019c58",
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09366747-c178-467f-909c-d9c1f9bd87ff",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5f799a0e-2855-4fe2-9598-5af0e9c979df",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e4d9522b-5033-4975-b63a-8d9c2cb0db31",
             "type": "CREATED"
           },
           {
@@ -1769,15 +465,1319 @@
             "type": "CREATED"
           },
           {
-            "objectId": "/collab-platform-arch/collab-platform-arch.capella#02c899ce-617e-40ff-84e7-03844b3144e2",
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3c3f554-444c-49d4-a86f-5d08237d4b9e",
             "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#06b2d5fa-6cb9-42c7-b7d0-140b7dfa100d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7224daf5-4dfd-4bb2-94dc-7d8cf9f55a4c",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#261b8fcc-c356-4586-a81d-3e5471268c12",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0c258280-86dd-4eed-8ff9-2ae1592e5fe6",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5135",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d5fcca2f-680f-49b0-8f81-a9e1cf355f17",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f48b1987-d641-4262-b8ea-7f3091ccf87e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ef7f70c5-c1cf-43fb-b7c7-24af002fd62c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#33e6ee31-f1b6-467f-8c23-f93fae696d90",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a962df55-a510-4530-9b88-f34743305b42",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7e66926b-937b-4822-b4e3-93371ca4dd7a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#350170ce-d65b-4377-965b-375e5d196c7b",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#47dd39f5-d48d-4705-8f6f-b6704cde5d1d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#68c9da36-7f6f-4568-980a-473a5bb36722",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ba48fc1f-a558-4eeb-8b6a-8cb09d4a844d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bc86ee1d-8fcd-4183-8266-d2757fcdbe49",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dc46cbb7-c9ce-493e-bb01-0c0070cc69d3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7a289dd9-24ec-4c1c-8ae0-ceb47f81e9ee",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09c7c87d-be32-442d-ad71-da32211f26cb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#eed80bf1-5e6a-41f4-b311-fbbf05b9cd3d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#22ad0d36-ddc9-4c3c-84ea-7eb6ab617d35",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#915bea0f-f368-4203-9f17-9d971408422b",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#10ddc32b-2efa-44a9-8054-b742d933935a",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a8b90e12-da4b-4f05-87b1-d34506b707ca",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51eb5bb5-bd48-4902-8354-b88ca13a0dd7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4ad790e0-0952-4b8b-bd4c-f566930d465a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b238aa4-25e5-4ed0-82ed-fb89775a594d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2bd331ca-1e09-4148-ba72-c82323298afb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.aird#OID3335",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7c996d06-50f2-4233-aa24-2fe8b3577b51",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_nNoaoLsGEey295QqzHHzCQ",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#974b9091-9603-4be4-9cad-82e7466fb167",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3a5d4459-30d1-4168-b6d4-1d05b555bfeb",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d434a2f0-8733-4570-919e-4555f34143e1",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c4666df1-bcdd-48b1-aedf-f325d419f5fa",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a81efb63-8d8f-419c-8d3a-03a35eecae0b",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9167a05b-07d1-4f9c-b430-bb41e145ef91",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8b99e7c6-1c76-43f8-9d62-c1ce56d14aea",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ff95c558-1cc2-411b-b03c-c64d1d2fef77",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1892fa9-2f25-4493-b8ee-05d6bb949da6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8a5f4433-c4a6-4dcb-b2a2-2a5b53b15e67",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#05357236-4458-4d04-931c-94395c55604e",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d051d249-0402-44a1-bf37-1d69e228cc99",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8ddcc52e-7653-4c00-a962-16ed077f2740",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#98b724fd-ec11-434a-a6b9-91d552518f75",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c254bba9-11f6-4924-9d61-79e13072f925",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#538e0c9c-822f-4691-8bb8-4c4f25af8a25",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#242bc3ae-415e-4afa-8ce6-33b7f73cc3ad",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#38f27933-58dd-4b52-8fc9-117a87142edb",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9337db1f-0a85-44ef-8b4c-1794e08fc8e3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e8102768-f777-4816-952a-1d94e62e8ec0",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#75b79254-d476-41ce-b06e-80c4f89c204f",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a2a0cbd-480b-4d56-bcf9-00560b01c5b4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1503",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ed50eff4-83f2-4aed-9e7f-863bd8e08ca6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e2dede6e-e24a-4104-8d59-d93a4aef78b3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c43742e1-b5f4-428b-a634-6261ecb876a8",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e7a2bef4-3948-4bde-a126-380a6e457535",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#db57de50-dde4-402a-bd45-8e48e04f000a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bce414e0-9a50-41ca-b653-9d04bb720e27",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#be5ee57d-ca37-4a46-b435-a45a2df55973",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7ccafc99-7fee-456d-9270-c16debfd411a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4c22e890-e0a2-4bbf-80ea-bccff7f79117",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1b8d13b-fb03-4e1d-88fc-fc09849e07e3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#47d033b0-8b71-459f-a48c-d947738162c6",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#92b82cf1-3251-49bf-b26e-a8d3c6dd4248",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d01ac8ff-e720-4b1f-a64c-21c23075163a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#654604d6-c691-4dd8-998d-fff0644a190a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5aff6589-5b83-43c2-a1f8-ce0da08a82d0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6bd6ec30-b11c-4de2-a3e3-0e2e509bc781",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d09be31a-7401-4e6e-8d18-aa0eaf4f9566",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a2d3b9a5-6e49-4f88-b750-ca36a431c11c",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdff741c-1d41-424a-960b-c169beb11618",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_gAUfYLsGEey295QqzHHzCQ",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec8cf044-9cb6-4729-bb61-0efb53737cf9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b4270ee1-ee4f-4205-bd35-d22f5d7e86d0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#313d38ec-d801-4466-97ef-596b2a7022ad",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6a48691c-cf47-4bc0-ad1c-f7c3e7cdc0c3",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b0a422d0-5a69-4a96-87c9-759aafb9244e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1491",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#222a50cf-62a0-42a2-8bd1-0c2eb5e65898",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3d0cbfda-9836-434e-9a67-de19330b6dcc",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#17cc5297-9e44-472c-99de-25475d661d40",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c162b3d5-bf24-4333-a581-acdc0d623160",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdc1fb04-4d6e-4692-bb3f-2a9ea826d676",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a9241802-46de-49fb-8976-cf783cb9f31e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5149",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2924de13-370e-4513-8db6-d6d6825e7188",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9cd2cc99-e19e-4786-8332-a97ee9521734",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b0fd5084-c91e-49f7-b8e6-527080210414",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f773f15a-930b-4566-ae74-5d93b83408b9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e692f4cf-d541-43ca-884d-3346eafa0af3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6433cc50-a945-4e91-96a5-fa2b470b451d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#96404c7a-47fe-4536-8902-a9436a156b78",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f2e273da-ff5e-4be3-908d-7b6617a5e602",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b41f11a0-af3e-4803-808a-15a0fa48f6fb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9df77060-615a-41ee-bb79-817ee4c7e3ee",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f0eb62b9-4ae9-45c0-866a-85edeaaa32c1",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9b784d36-0f4c-4414-98b9-617a08e385d9",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5040",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#814bde21-44e5-496c-8c8c-66d74c3c78c8",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd8e52b8-cc43-4050-a9a0-9fdd53f54cf3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d6a2cf0c-6b76-40c1-abf0-e26f01907c58",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#234c6823-e6cf-4777-8666-a8472ce2ecd7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6cfef791-e474-4d0d-83f0-493bf4f9ab94",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#602e111d-e8c4-46fa-8366-eb59f9f16624",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16cb545b-32dd-4b76-9179-32da6bd0906e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f4823802-6e87-4130-a0a6-16c93b80a77f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e06796b1-826d-4904-9f35-545dd01b7e8a",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1009f86f-68df-474a-af6f-9b0827eb9833",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#51ff61bb-7ea5-4b5e-884e-a99a6d1fee48",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5785056c-372d-4c50-8440-9edd1fb4b072",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d39fc2ac-fdd2-4eae-83c4-8ddb84139e9f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1d273b49-cf53-421b-a327-6ef6cee748fe",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#488daa67-b7ef-4114-b361-b56d6473368c",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2425",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#69daed59-a053-4d80-889f-fa6415d04acf",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#63792d9d-b502-42d7-8110-c3e7d8e6216e",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0b9880ad-23d0-4d3f-abb2-2a43e1e22d61",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#074ef86f-fc3c-4037-b987-4d22e74b2626",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08df1d58-6689-42c4-835f-8e3d4c5ea399",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1504",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dec07aa6-72cd-4fe7-a135-177ab6d20e3f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.aird#OID3334",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f67f5afa-e952-4c60-8afb-dab25089f5de",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d3d14161-800d-41af-966e-a47e9c0bd5a7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#decf162b-4a50-4d16-9012-dbc51ad6ee47",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e08fad3b-938a-46dc-acc3-cceb68f1ec22",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bdc9145c-ee1b-4e6c-bf30-44b101f513a6",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2afd76df-53ed-4019-9629-b3fead6e8240",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#acca21e8-1332-47b2-bd0c-de63fa1680ff",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#08e04992-09e1-49b9-abac-c8d5d4cb2467",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#34e6357d-b1d4-466a-a3f4-9b07f1a0ca7b",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#22cf58a6-7ca2-42c1-b2ed-5365dcd6b4ec",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6e199b4d-d26c-469b-afe6-f39abe9d0e3c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d9cc2fd7-2999-410f-9d06-b13211608573",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#28567b33-0959-45f4-9298-fd86ec374d31",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#16dff783-440c-4ce1-8c2a-2d8d66df0c39",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#07799539-3c4b-490e-9f50-9a6b5ea7c647",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ac41e7bd-6a7b-43b6-8cb4-6f1e19b7da60",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#57610649-7447-4b91-ad0c-a2cc585ca8b4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6466dd66-1e08-47c2-b061-347edbedd919",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.afm#_nPO9ILsGEey295QqzHHzCQ",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8261a741-ee29-4118-a6fa-cb7dc85da655",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a1307224-e34e-4b69-bacd-18addfb7b093",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2418bb39-edb0-4c5e-be6b-57c5d2652b33",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#515153eb-fa27-473f-ad56-355261734d25",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#df67db2f-034e-4b46-85d3-00721019a1b8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#587856f6-036e-418f-b6b1-19892e84848e",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#aec63c88-2d96-4113-a4d1-9b9532ee762c",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9d053e23-be2f-4f8a-9d95-078558695267",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e0bfa066-696e-49ae-b267-ece23ad5233f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#826aab68-2837-402d-9907-0dcf113fb266",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f156d6c4-1df7-495e-b8c1-fd6f67380e3c",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b182d37e-518e-46f0-ae5b-048de01e9c08",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0ecfc0ce-5bd3-46f6-a292-46aaef231954",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6eb1cba8-4d75-4581-93d4-2b19d1501861",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#085d8119-c843-49e7-ae87-9fbf2f9b4477",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7fd152b8-125c-4a72-b59c-b10e8a3d1cab",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#37856665-221d-4142-9dcb-67c16003978e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1d989cd3-4493-459d-833d-cbdc9a421917",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#2a358df0-7b99-461a-a72a-c508cd8df09a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e67d5aab-62f9-4829-9402-8800e7d3389c",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1512",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d63ae38d-950e-425d-8010-af23339e46be",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#382c29ce-62df-4dff-8a3f-ce6b90223180",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a29227c3-268d-4108-92fb-8048998955e8",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7dd0899d-6720-416a-a725-4266f19a01d9",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b97ccde-06d5-426d-bd23-e586b14403d2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#41aeccad-6c7a-46dc-8f43-41a1c81b8cc6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec30f2ac-b748-44f0-83e0-3e87cd357025",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5161f391-8f70-4156-96f6-27f46c4bec3c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#29b30b7a-cda6-41ed-885e-8c68bbb007f3",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b3457675-4d79-4795-96ad-2ce09475bffc",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#eb8e07d1-44b6-45e9-b64f-5772edba94ad",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#82cfeae8-b7e1-4a21-ba18-edaf7c90eafb",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1a44c894-b982-4444-869f-e1320c3ef6e8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#84d44d6f-dfe3-46e5-a03c-ec4c2d570ba8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c6e9fbf5-9dca-4eac-8a81-225683815660",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c1f80bd2-d4f3-4065-ac42-91328dab0372",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#79fa65ec-16fe-4b74-88f3-390a7ab3a540",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#558af10f-ca38-41a9-b4a5-945ecc329611",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#219bdcae-589a-43fa-8b74-75bb6c091823",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#edebc8b8-fa2d-493e-892b-a3a8b315c92e",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#55da101f-c426-45b7-8965-41a30752dc39",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#52864ac3-678f-4f98-a28a-45e0ad8f963a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e5bbdc78-6e0b-48e7-aae7-399a39f38436",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8913cd74-4a32-4449-8726-2fa110292398",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6968b0d-377c-4cd0-85d9-8f00603ffeed",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bfc102d0-52f0-4235-9023-7efc6e5b3577",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7da5e7fa-fec5-4813-9dc1-2a639299b48c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1f19a67f-4658-42d5-8da4-8830a065ec55",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b87053e7-7822-4fdb-8de7-0a6c674f1821",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#132507af-fb07-4654-a74d-1dffce458c81",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2417",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4ec30913-4d8b-433d-9ea8-14b65ce387ba",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5162",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c2a7b37f-547d-41b0-82fc-e9313405e799",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#dda47df4-81ef-4509-8fbd-29323fff57d9",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#42cd71e9-a915-4ace-9f19-9831be76f5fd",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e3bddace-6fba-46d9-9477-423c5034467a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#02b2df4b-047d-43ca-8524-e866262754bc",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#12c64009-d14d-44f1-a114-29bad0861f51",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#71a35f09-3239-43ba-ba99-458cf005b175",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f6e71ed8-71fa-4de0-a8f3-e7137b7eca8b",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a47d1149-daff-4609-b8fb-e82c9b8bdec9",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5136",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#663f4807-2fa5-44e5-ac65-6a13a934f415",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#adf77337-0131-4d7b-8636-10ce2d034528",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b0ba1b5-dbfa-483c-a5bd-133ca237f93a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#6b99692c-3aef-4245-aa4d-233a811afc00",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50654783-fc7d-484c-bb65-893faa2c4189",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c96a697e-0845-4e39-adcc-66b205dc6843",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c9afdb37-dc3c-45c5-ba5d-df9656f483bb",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ec6a7551-0851-4a41-979c-1ca385fab585",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9972dcc4-7d4b-46b8-8c70-2f49afe86996",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5a47800a-885b-40fd-a509-fae346d16e32",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#31848253-8c75-4084-9124-1b3078c75dbc",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f1331f4d-b177-4c2d-9f14-2c2feb7564d3",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#62f3d16a-4a5a-4ed4-b980-f28e669c7c58",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5150",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#031904b6-8614-43fc-b7f9-0e63623011f7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#18c3328d-c332-4530-8e85-64f5ddf71c5c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fa643bc1-2c2d-40f0-93d9-1a81697c66bf",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1484",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#70e3f89f-b7bf-4bb5-99ed-4e2b84f0f11f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0fd19fe7-3b94-462b-975c-e14f930a352d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a63bbf0d-425d-4624-97fc-fc153d03616c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#34c9b810-8f71-4f93-a60c-e6548173ad8a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#50cb44f0-951d-4a2d-87eb-6f25daf0ded3",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0f01d3d-b39a-450d-8bf6-0bfa6e0d2be8",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#03189fb6-db87-4375-b81f-e801248e4181",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8a7dbac0-4d76-4c88-a820-a7b14fe75996",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b47f1a3a-2bdf-41db-9505-03bf526a71ec",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f55d0d1f-1239-458b-bdb0-bb1d06298349",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5174",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f7e1d275-a20e-4372-9d11-05a65958e09f",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7f96b325-be69-4d29-a355-59516b4ae9ab",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#96e0917c-ff50-435f-bf6e-baea3f0adbc3",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0f62c107-557b-404f-994c-6cae0614f3a5",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#4db669d9-7734-4c12-8e46-af5b786927fe",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e7279b1f-1822-4221-8fb0-c30f1e8ea7e4",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae2c8d4e-b271-4a16-ab12-4f3cce715b1d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#149fcdfb-322f-4fc2-89b4-7e277d0cbaae",
+            "type": "DELETED"
           },
           {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#f21b0150-126e-4d63-82b3-2b3bf7b7ff6c",
             "type": "MODIFIED"
           },
           {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8e574eda-8083-4f11-987b-4cc7af10b04d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fcf700ea-eeb6-4190-9dd2-3a2a4fcd2324",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae2fbf4e-4ca1-4808-9139-546a04fd37c2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c601256d-a688-448d-b2fd-87ba54966267",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c6dc2b5c-c5c2-45eb-868f-0d9c29205fcf",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7b61ae78-b977-49fd-b83f-12691954007e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#8acc131e-b773-4933-9397-475e7ccf8410",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#112562da-9270-4940-9716-5f164399dee1",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5c229a08-1567-489e-9da7-07258451bbae",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d9bcd4d4-121b-45bf-be4a-b3b6a3dec0c7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#638c6ea5-77e5-4178-83dc-4a13d279aa55",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a0749fb1-bb3f-4f82-b2fc-74b8d5b4d6ee",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#864ac106-336c-48b0-81c0-935cadad200e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#29801371-45d7-4a0e-bffe-0a5712727617",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#519b6835-808c-4432-a8fd-ac2c1e028bb6",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6a371e0-0341-4462-85a7-f8b3787f6a00",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1059d135-88ff-44c8-a514-af8bb0bdc48e",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#805509c3-4024-4072-9175-b65cf13a9f60",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e860afd5-78c1-428e-a01a-f066aaa25157",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#c767548c-810e-4903-b0af-eeefcefbc1eb",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fc998e70-6692-41f3-ad08-6c080f597217",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#180917da-8a49-4b50-b290-facd12f7193a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3c93ec79-db23-4d3f-a30b-e7e3c1f64244",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fce14763-d7f8-4680-9896-233df0f70e2a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3c85dce3-b055-4c48-84cd-baf2b6e48747",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#81c065a4-5f55-412c-b2ce-926b855632f2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#e00f21f0-ef01-4965-819a-271b99a761c4",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1483",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bd84c545-7aeb-42a5-a82b-3061a60e7daa",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fd9dbd0e-cf0f-4a57-a1b6-3913486dfb04",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d0ff4d6a-a45e-4c32-a6f6-3e4c1ade1b18",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2418",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#14c1620d-874b-420a-9fa7-17d604a01a25",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#600ae798-eaae-4f22-802f-ceaa113978fd",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#7acda9af-68e4-49b9-a178-bb86d13b074a",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6d44009-1273-46d3-bd13-614f044aa8a4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5894e353-b75a-44ef-bf06-d13d275ea347",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#40a2751e-b300-47f8-a50d-a25ee8d908c1",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1511",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#5a9beb79-e687-4da9-8052-a3b10c418ebc",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#38b174e5-72b4-455c-89ff-572bc4c88622",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ae6b0d1f-91e6-4b62-81cc-103aed4af691",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1b65cfbc-b3a6-4c09-a6ea-160ee537e975",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#bb099695-bddb-4684-a08b-a95221d2c3cc",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#9ba7fcac-8e87-4f75-aa65-648dba9c5442",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#21cc3e50-bb86-4ff9-96e0-1886cce40b12",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#313436ff-39d0-41db-b4f4-7d85f057a9bc",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#3d8c766f-23bc-48b9-a18e-ad81a04559c5",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#0bb6a343-3159-4b83-822f-3984d76c65d4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#36009701-cecc-4e40-b8d9-fcc21fcc4bc9",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#599b4e5b-7214-46ef-abd6-1f421af45f1f",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f360b590-4ef8-4448-ac63-9c4c24318ca7",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ee350a55-b316-40c0-9b33-988006a60a9b",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ed32c401-ff99-4a6f-ad15-713cb078241c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#046a80aa-a3be-469d-b8f5-867b5df0ad8a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09112535-658b-4b6f-91f3-46d2858fb5cb",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#55537857-8e15-4084-8080-4e16801bdc42",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#10e76250-d440-49fb-9904-51e187795b65",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#11711ea4-6227-4c10-a5ce-7efd3cfbe140",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#25536090-b95c-4900-b966-0fc1f7649fe5",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#63cdfdea-eb44-492d-8760-5f071430b298",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#1505db5d-5bd3-4ddd-87b9-9b049bb84f8a",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#fdc2c9c8-8218-48a5-8b65-da11a684031d",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#d84f03ef-dab8-4404-93de-3b108901b04c",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#09366747-c178-467f-909c-d9c1f9bd87ff",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#25050d5c-a356-48ff-b7a0-a226f3516253",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5175",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#f184e567-a988-480c-a9eb-9c3b0fd1d3d4",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#72c33233-3722-489b-ba5c-089dc094d0c1",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#02c899ce-617e-40ff-84e7-03844b3144e2",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#ab7fd3ca-db37-4feb-8818-9d75bd723f60",
+            "type": "MODIFIED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#90972533-3ebb-4c03-a244-cc92046beff0",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#b6d9b6e0-6916-44e7-9991-f06699c1398d",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID3439",
+            "type": "DELETED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#a992e9f8-a37c-4697-87d6-5fdef1ad1996",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#41861774-88c8-4d39-9c3b-0feb9ad23af1",
+            "type": "MODIFIED"
+          },
+          {
             "objectId": "/collab-platform-arch/collab-platform-arch.capella#322f53ff-e978-413f-9f70-9ddd516c93e6",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#465cbbd8-5b32-49c2-836c-bcd61096fa71",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5039",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#191fdf51-a130-4818-a316-ef066de195c9",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#da7c480d-46e5-4586-803b-36d93ae10dfc",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#974899da-99b3-405c-a805-d2a1e1d60a79",
+            "type": "CREATED"
+          },
+          {
+            "objectId": "/collab-platform-arch/collab-platform-arch.capella#86c7d5a4-39d0-4d80-962e-25afe9c4bea1",
             "type": "CREATED"
           }
         ]
