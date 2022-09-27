@@ -312,7 +312,7 @@
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="9ba7fcac-8e87-4f75-aa65-648dba9c5442"
                   name="Project / Task Management" abstractType="#16cb545b-32dd-4b76-9179-32da6bd0906e"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="0b46a0ff-6554-4839-8644-6587c91eb3bd"
-                  name="Model Repository Management Service" abstractType="#41861774-88c8-4d39-9c3b-0feb9ad23af1"/>
+                  name="Repository Management Service" abstractType="#41861774-88c8-4d39-9c3b-0feb9ad23af1"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="4ad790e0-0952-4b8b-bd4c-f566930d465a"
                   name="Release Management Service" abstractType="#e41d464f-47b1-4e11-ac61-a837bb503a27"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="acca21e8-1332-47b2-bd0c-de63fa1680ff"
@@ -322,7 +322,7 @@
               <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="16cb545b-32dd-4b76-9179-32da6bd0906e"
                   name="Project / Task Management"/>
               <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="41861774-88c8-4d39-9c3b-0feb9ad23af1"
-                  name="Model Repository Management Service"/>
+                  name="Repository Management Service"/>
               <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="e41d464f-47b1-4e11-ac61-a837bb503a27"
                   name="Release Management Service"/>
               <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="2018b46a-9547-4962-87b6-36097f09731e"
