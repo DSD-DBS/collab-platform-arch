@@ -12,24 +12,23 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#558af10f-ca38-41a9-b4a5-945ecc329611" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1473aaf5-7886-44be-9545-3fb32708e616" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bfc102d0-52f0-4235-9023-7efc6e5b3577" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5a47800a-885b-40fd-a509-fae346d16e32"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#47d033b0-8b71-459f-a48c-d947738162c6" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#4c01d9ac-2167-4331-8fc7-c66163339075" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e06796b1-826d-4904-9f35-545dd01b7e8a" type="DELETED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ac41e7bd-6a7b-43b6-8cb4-6f1e19b7da60"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2bd331ca-1e09-4148-ba72-c82323298afb"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fa643bc1-2c2d-40f0-93d9-1a81697c66bf"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#33e6ee31-f1b6-467f-8c23-f93fae696d90" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2924de13-370e-4513-8db6-d6d6825e7188"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5c229a08-1567-489e-9da7-07258451bbae"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a29227c3-268d-4108-92fb-8048998955e8" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7a8bd1d8-b2c0-4af2-ae68-0e7833cdad0a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f7e1d275-a20e-4372-9d11-05a65958e09f"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#05357236-4458-4d04-931c-94395c55604e" type="DELETED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#68c9da36-7f6f-4568-980a-473a5bb36722"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b5e45749-521e-4665-b002-4c0600023bb7"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#149fcdfb-322f-4fc2-89b4-7e277d0cbaae" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a47d1149-daff-4609-b8fb-e82c9b8bdec9" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#cd8db145-371d-4aa4-b810-2086aee994a8"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#09112535-658b-4b6f-91f3-46d2858fb5cb" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#40a2751e-b300-47f8-a50d-a25ee8d908c1" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fdc2c9c8-8218-48a5-8b65-da11a684031d" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c1f80bd2-d4f3-4065-ac42-91328dab0372"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ed32c401-ff99-4a6f-ad15-713cb078241c"/>
@@ -51,7 +50,6 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#37856665-221d-4142-9dcb-67c16003978e"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b0fd5084-c91e-49f7-b8e6-527080210414" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#84d44d6f-dfe3-46e5-a03c-ec4c2d570ba8"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#06b2d5fa-6cb9-42c7-b7d0-140b7dfa100d" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e06a53e2-7c5a-44e8-adc6-1efbafe4cea5"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3c85dce3-b055-4c48-84cd-baf2b6e48747" type="DELETED"/>
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID3438" type="DELETED"/>
@@ -63,12 +61,13 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b2285c09-bdde-4b4d-8307-03d237233215"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#814bde21-44e5-496c-8c8c-66d74c3c78c8" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f0f47fcc-1082-4c5d-9895-3691bb82128a"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#40a2751e-b300-47f8-a50d-a25ee8d908c1" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#09112535-658b-4b6f-91f3-46d2858fb5cb" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b87053e7-7822-4fdb-8de7-0a6c674f1821"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#63cdfdea-eb44-492d-8760-5f071430b298" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#22ad0d36-ddc9-4c3c-84ea-7eb6ab617d35"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#38f27933-58dd-4b52-8fc9-117a87142edb" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1503"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#68c9da36-7f6f-4568-980a-473a5bb36722"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#07799539-3c4b-490e-9f50-9a6b5ea7c647" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c1892fa9-2f25-4493-b8ee-05d6bb949da6"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c4666df1-bcdd-48b1-aedf-f325d419f5fa" type="MODIFIED"/>
@@ -77,7 +76,6 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#da7c480d-46e5-4586-803b-36d93ae10dfc" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#537901c0-ef19-4ecd-a796-a596c90debca"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d3d14161-800d-41af-966e-a47e9c0bd5a7"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fec593d9-3f54-46b2-a1aa-dc92c6446068"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b7582e7c-e1d5-4725-b7d2-5b14fc1b1bf2"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#81c065a4-5f55-412c-b2ce-926b855632f2"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e00f21f0-ef01-4965-819a-271b99a761c4" type="MODIFIED"/>
@@ -93,7 +91,7 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#51ff61bb-7ea5-4b5e-884e-a99a6d1fee48"/>
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5040"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e7a2bef4-3948-4bde-a126-380a6e457535"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0ac2511d-fbe3-45f0-9e21-bc1f164b2fa8"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5c229a08-1567-489e-9da7-07258451bbae"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#046a80aa-a3be-469d-b8f5-867b5df0ad8a" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3d8c766f-23bc-48b9-a18e-ad81a04559c5"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5aff6589-5b83-43c2-a1f8-ce0da08a82d0"/>
@@ -101,7 +99,7 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#dc46cbb7-c9ce-493e-bb01-0c0070cc69d3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#dec07aa6-72cd-4fe7-a135-177ab6d20e3f"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b8706f7a-b03e-4d8b-bd05-b30919b004fb"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#761b7b71-cb32-4542-ab6a-e126e934d53a" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bb099695-bddb-4684-a08b-a95221d2c3cc" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#dda47df4-81ef-4509-8fbd-29323fff57d9" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fc998e70-6692-41f3-ad08-6c080f597217"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#8ddcc52e-7653-4c00-a962-16ed077f2740" type="MODIFIED"/>
@@ -111,30 +109,30 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e2dede6e-e24a-4104-8d59-d93a4aef78b3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2123475f-f914-4802-9c40-fcbfe8ba25e0"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2a358df0-7b99-461a-a72a-c508cd8df09a" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1d273b49-cf53-421b-a327-6ef6cee748fe"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#974899da-99b3-405c-a805-d2a1e1d60a79"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#55537857-8e15-4084-8080-4e16801bdc42"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2a27612a-76b1-4e2e-a9ff-6c179485567e"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.afm#_nPO9ILsGEey295QqzHHzCQ"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#92f64ec8-3910-4367-82cc-ebfae8c97dca"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#9df77060-615a-41ee-bb79-817ee4c7e3ee" type="DELETED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#25050d5c-a356-48ff-b7a0-a226f3516253" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bd84c545-7aeb-42a5-a82b-3061a60e7daa"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f55d0d1f-1239-458b-bdb0-bb1d06298349"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2417"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#25050d5c-a356-48ff-b7a0-a226f3516253" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#98b724fd-ec11-434a-a6b9-91d552518f75" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5039"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3ff2d089-b691-4891-b557-909d27a50768"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d051d249-0402-44a1-bf37-1d69e228cc99"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7f1cbbf7-edd3-4902-9f10-fc559c0e8270" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7b61ae78-b977-49fd-b83f-12691954007e"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#87ff3a89-a8bf-4002-a4f0-1272cb6a3cbe"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#313436ff-39d0-41db-b4f4-7d85f057a9bc" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#112562da-9270-4940-9716-5f164399dee1"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c162b3d5-bf24-4333-a581-acdc0d623160"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5a9beb79-e687-4da9-8052-a3b10c418ebc" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f6e71ed8-71fa-4de0-a8f3-e7137b7eca8b"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1f19f7f5-311e-4d9a-8333-8c757d1bbd74" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#50744ba6-bbb7-4c03-af1b-4017a194b48a"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bb099695-bddb-4684-a08b-a95221d2c3cc" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#974899da-99b3-405c-a805-d2a1e1d60a79"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#761b7b71-cb32-4542-ab6a-e126e934d53a" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e692f4cf-d541-43ca-884d-3346eafa0af3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c254bba9-11f6-4924-9d61-79e13072f925" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#8a5f4433-c4a6-4dcb-b2a2-2a5b53b15e67"/>
@@ -148,12 +146,14 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#16a196f0-edcb-4985-9e43-76834dbf507b"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a009227c-5e17-4199-90f6-7a35b6a2d3fd"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#34e6357d-b1d4-466a-a3f4-9b07f1a0ca7b" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ef7f70c5-c1cf-43fb-b7c7-24af002fd62c"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bdc9145c-ee1b-4e6c-bf30-44b101f513a6" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#02c899ce-617e-40ff-84e7-03844b3144e2"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#62f3d16a-4a5a-4ed4-b980-f28e669c7c58"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ec1c8c31-a2ed-454c-9658-2d4902a706b0"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f360b590-4ef8-4448-ac63-9c4c24318ca7"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a47d1149-daff-4609-b8fb-e82c9b8bdec9" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#149fcdfb-322f-4fc2-89b4-7e277d0cbaae" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#06b2d5fa-6cb9-42c7-b7d0-140b7dfa100d" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f2b85e72-1177-4285-b65a-df79decbc642"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#8b99e7c6-1c76-43f8-9d62-c1ce56d14aea"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3c93ec79-db23-4d3f-a30b-e7e3c1f64244" type="DELETED"/>
@@ -167,7 +167,10 @@
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5136"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3a5d4459-30d1-4168-b6d4-1d05b555bfeb" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#20cf33cc-bf1f-43bf-b2a9-0ecccce4d0f4"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fec593d9-3f54-46b2-a1aa-dc92c6446068"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a992e9f8-a37c-4697-87d6-5fdef1ad1996"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#34c9b810-8f71-4f93-a60c-e6548173ad8a"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#974b9091-9603-4be4-9cad-82e7466fb167"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#27a9159b-e457-4ecd-bdb3-7d42f8bc830c"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#587856f6-036e-418f-b6b1-19892e84848e" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#eed80bf1-5e6a-41f4-b311-fbbf05b9cd3d" type="MODIFIED"/>
@@ -178,13 +181,11 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e5bbdc78-6e0b-48e7-aae7-399a39f38436" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#4dfa4d59-8a9e-4c79-bc43-e57b5889e578" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#09c7c87d-be32-442d-ad71-da32211f26cb"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#805509c3-4024-4072-9175-b65cf13a9f60"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#56f619b0-0858-4a39-b3f2-c71946287c44" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#71a35f09-3239-43ba-ba99-458cf005b175" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b5df8e45-8aaf-4c42-953d-edc70a2480cd" type="DELETED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ef7f70c5-c1cf-43fb-b7c7-24af002fd62c"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#132507af-fb07-4654-a74d-1dffce458c81"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#17cc5297-9e44-472c-99de-25475d661d40"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f0eb62b9-4ae9-45c0-866a-85edeaaa32c1"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ae2c8d4e-b271-4a16-ab12-4f3cce715b1d"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#28a4f030-33ee-4da5-91ac-63a51e1b6a63"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#08e04992-09e1-49b9-abac-c8d5d4cb2467"/>
@@ -201,19 +202,19 @@
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2425" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f6d8b5da-c3a2-474e-b8b2-a2ef23fca7e6"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d6e3485d-2c03-4d9c-881e-b98852b507f6"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#915bea0f-f368-4203-9f17-9d971408422b"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5189dd7a-bb5c-4925-b4db-b3e01260a1b8"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f2e273da-ff5e-4be3-908d-7b6617a5e602" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#86c7d5a4-39d0-4d80-962e-25afe9c4bea1"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#350170ce-d65b-4377-965b-375e5d196c7b" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6b99692c-3aef-4245-aa4d-233a811afc00" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#50cb44f0-951d-4a2d-87eb-6f25daf0ded3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#29b30b7a-cda6-41ed-885e-8c68bbb007f3" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#10e76250-d440-49fb-9904-51e187795b65"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#583f6bd7-4ac8-4e84-b839-e10b401fbaa3"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#34c9b810-8f71-4f93-a60c-e6548173ad8a"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d6a2cf0c-6b76-40c1-abf0-e26f01907c58"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a1307224-e34e-4b69-bacd-18addfb7b093"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#234c7c0c-60db-45fa-a2f3-ffb1dd0f4b98"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b4270ee1-ee4f-4205-bd35-d22f5d7e86d0"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bdc1fb04-4d6e-4692-bb3f-2a9ea826d676" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#87c8c27f-4431-49cd-a9ae-64e2c31f9b88"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#9b784d36-0f4c-4414-98b9-617a08e385d9" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3798da0d-f6e8-4cbb-b190-53bce10c96e9"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0d1fc216-e6eb-43ea-9de4-326ac7c1209b" type="MODIFIED"/>
@@ -232,6 +233,7 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#18c3328d-c332-4530-8e85-64f5ddf71c5c"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#96542aba-aa6d-466a-8dc4-ead2bc696c4a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e67d5aab-62f9-4829-9402-8800e7d3389c" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ac41e7bd-6a7b-43b6-8cb4-6f1e19b7da60"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#4db669d9-7734-4c12-8e46-af5b786927fe" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0f62c107-557b-404f-994c-6cae0614f3a5" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6433cc50-a945-4e91-96a5-fa2b470b451d"/>
@@ -247,7 +249,6 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a81efb63-8d8f-419c-8d3a-03a35eecae0b" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#41aeccad-6c7a-46dc-8f43-41a1c81b8cc6" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#9d053e23-be2f-4f8a-9d95-078558695267" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#87c8c27f-4431-49cd-a9ae-64e2c31f9b88"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f4823802-6e87-4130-a0a6-16c93b80a77f"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#29801371-45d7-4a0e-bffe-0a5712727617"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1f19a67f-4658-42d5-8da4-8830a065ec55"/>
@@ -262,7 +263,7 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e868d774-c70b-4d36-b440-7a74c213206e" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b8c6c191-6f48-450c-ac46-adda0689fd8d"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#8e574eda-8083-4f11-987b-4cc7af10b04d" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5189dd7a-bb5c-4925-b4db-b3e01260a1b8"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#915bea0f-f368-4203-9f17-9d971408422b"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#465cbbd8-5b32-49c2-836c-bcd61096fa71"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#76b7ba68-388d-4123-ad05-dcf21a9ae5ab"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a0749fb1-bb3f-4f82-b2fc-74b8d5b4d6ee"/>
@@ -271,16 +272,18 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1a44c894-b982-4444-869f-e1320c3ef6e8"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0b238aa4-25e5-4ed0-82ed-fb89775a594d"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1a972fd4-1e45-417b-8a87-ca6bb1eb8633"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d6a2cf0c-6b76-40c1-abf0-e26f01907c58"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#350170ce-d65b-4377-965b-375e5d196c7b" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#583f6bd7-4ac8-4e84-b839-e10b401fbaa3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2f9269a5-aa62-43c2-8c54-c01e54e70f35"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#515153eb-fa27-473f-ad56-355261734d25"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7597aef5-9ed6-48b0-b102-7814d81a4301" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#16cb545b-32dd-4b76-9179-32da6bd0906e"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ec568341-14d1-49d0-ab1b-37fb91b2e831"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ae6b0d1f-91e6-4b62-81cc-103aed4af691"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#519b6835-808c-4432-a8fd-ac2c1e028bb6" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0bb6a343-3159-4b83-822f-3984d76c65d4"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#be5ee57d-ca37-4a46-b435-a45a2df55973" type="DELETED"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1484"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#382c29ce-62df-4dff-8a3f-ce6b90223180" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e3bddace-6fba-46d9-9477-423c5034467a" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d84f03ef-dab8-4404-93de-3b108901b04c"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3e98acdc-1621-44d8-a5d2-870346364db7"/>
@@ -309,15 +312,14 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#11711ea4-6227-4c10-a5ce-7efd3cfbe140" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6b97ccde-06d5-426d-bd23-e586b14403d2"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#38b174e5-72b4-455c-89ff-572bc4c88622"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3bad8448-03e1-47a2-a17d-c580ae4864fd"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#79fa65ec-16fe-4b74-88f3-390a7ab3a540"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__YA0JcL-sEeyW7p6SdfyIKQ.srm#OID2426" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#50744ba6-bbb7-4c03-af1b-4017a194b48a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7ba2ca97-09ba-4929-bba8-ddcadbde1038" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#decf162b-4a50-4d16-9012-dbc51ad6ee47" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d39fc2ac-fdd2-4eae-83c4-8ddb84139e9f"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#44a1c87d-be16-4216-ad11-c8d871693b6a"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#55537857-8e15-4084-8080-4e16801bdc42"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#93aa7e69-dd5e-49cc-a7b8-58b8ab09147b" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1d273b49-cf53-421b-a327-6ef6cee748fe"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7acda9af-68e4-49b9-a178-bb86d13b074a"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__G8XdQLsHEey295QqzHHzCQ.srm#OID1492" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2d6d8b78-92d3-4e72-b107-3f7855d382b1" type="DELETED"/>
@@ -338,12 +340,10 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c601256d-a688-448d-b2fd-87ba54966267"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7dd0899d-6720-416a-a725-4266f19a01d9" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bdff741c-1d41-424a-960b-c169beb11618"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#5a47800a-885b-40fd-a509-fae346d16e32"/>
     <changes objectId="/collab-platform-arch/.representations/Operational%20Capabilities%20Blank__eSIzAL-rEeyW7p6SdfyIKQ.srm#OID1512"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7fd152b8-125c-4a72-b59c-b10e8a3d1cab"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c96a697e-0845-4e39-adcc-66b205dc6843"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2018b46a-9547-4962-87b6-36097f09731e"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#974b9091-9603-4be4-9cad-82e7466fb167"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#63792d9d-b502-42d7-8110-c3e7d8e6216e" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6e199b4d-d26c-469b-afe6-f39abe9d0e3c"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#638c6ea5-77e5-4178-83dc-4a13d279aa55" type="MODIFIED"/>
@@ -362,12 +362,13 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6b6d52ce-6bc2-43b7-a3b2-0999c89695d3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#fd9dbd0e-cf0f-4a57-a1b6-3913486dfb04"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#a0f01d3d-b39a-450d-8bf6-0bfa6e0d2be8"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6b99692c-3aef-4245-aa4d-233a811afc00" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bce414e0-9a50-41ca-b653-9d04bb720e27" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b0a422d0-5a69-4a96-87c9-759aafb9244e"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#98b724fd-ec11-434a-a6b9-91d552518f75" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7fbf4c75-e10c-4dd0-81e0-5e9969e9b52c" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#6466dd66-1e08-47c2-b061-347edbedd919"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1009f86f-68df-474a-af6f-9b0827eb9833" type="DELETED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#9167a05b-07d1-4f9c-b430-bb41e145ef91" type="DELETED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3bad8448-03e1-47a2-a17d-c580ae4864fd"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#600ae798-eaae-4f22-802f-ceaa113978fd"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ff825861-6b84-4e2a-bb7e-2d4da9590ff6"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#8acc131e-b773-4933-9397-475e7ccf8410" type="DELETED"/>
@@ -406,7 +407,7 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f48b1987-d641-4262-b8ea-7f3091ccf87e"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#08840c92-b2cd-487b-b4ed-994cca928e4a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1e511bdf-e56d-42bc-b643-a3dfc5c81924" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#132507af-fb07-4654-a74d-1dffce458c81"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#4ec30913-4d8b-433d-9ea8-14b65ce387ba"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7b0ba1b5-dbfa-483c-a5bd-133ca237f93a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2069afa2-6f8c-4473-8c50-ad1cbc4d67cf"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#2418bb39-edb0-4c5e-be6b-57c5d2652b33"/>
@@ -425,9 +426,9 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#cb220f07-7449-4267-ad20-7bb03c194692" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#41861774-88c8-4d39-9c3b-0feb9ad23af1" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.aird#OID5887"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#ec568341-14d1-49d0-ab1b-37fb91b2e831"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#16cb545b-32dd-4b76-9179-32da6bd0906e"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#b09ba4eb-0270-4996-861b-5932e42bd242" type="DELETED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#bce414e0-9a50-41ca-b653-9d04bb720e27" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#93aa7e69-dd5e-49cc-a7b8-58b8ab09147b" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#7b78a9b5-ddbe-42f1-b937-8c0a9c89ea01" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#0ecfc0ce-5bd3-46f6-a292-46aaef231954"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#1505db5d-5bd3-4ddd-87b9-9b049bb84f8a" type="MODIFIED"/>
@@ -444,18 +445,17 @@
     <changes objectId="/collab-platform-arch/collab-platform-arch.aird#OID3334"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#3d0cbfda-9836-434e-9a67-de19330b6dcc"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#e1f728b6-db41-4ba9-a256-62296d74b68f" type="MODIFIED"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#805509c3-4024-4072-9175-b65cf13a9f60"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#768fbd38-6e04-4a6d-9b99-1c91cc510926"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#382c29ce-62df-4dff-8a3f-ce6b90223180" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5175"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d63ae38d-950e-425d-8010-af23339e46be"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#92b82cf1-3251-49bf-b26e-a8d3c6dd4248"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#4ec30913-4d8b-433d-9ea8-14b65ce387ba"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#d45b19a5-07ed-43fe-b59a-aef273b7f0e8" type="MODIFIED"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#09366747-c178-467f-909c-d9c1f9bd87ff"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#52864ac3-678f-4f98-a28a-45e0ad8f963a"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#9337db1f-0a85-44ef-8b4c-1794e08fc8e3"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#c8a0f815-7adf-4e17-8d94-8db1810f6d4c" type="MODIFIED"/>
-    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#87ff3a89-a8bf-4002-a4f0-1272cb6a3cbe"/>
+    <changes objectId="/collab-platform-arch/collab-platform-arch.capella#f0eb62b9-4ae9-45c0-866a-85edeaaa32c1"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#069ff1d7-b396-485c-99bf-817597fde8a4" type="DELETED"/>
     <changes objectId="/collab-platform-arch/.representations/Logical%20Architecture%20Blank__VWhwoL-wEeyW7p6SdfyIKQ.srm#OID5149"/>
     <changes objectId="/collab-platform-arch/collab-platform-arch.capella#df11f974-1535-49e6-8351-c1500b1bde7b"/>
